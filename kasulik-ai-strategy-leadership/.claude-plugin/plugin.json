@@ -1,0 +1,17 @@
+{
+  "name": "kasulik-ai-strategy-leadership",
+  "description": "Strateegia ja juhtimine VKE-dele — konkurentsianalüüs, finantsaruanded, sidusrühmade kommunikatsioon, sisekommunikatsioon. Eestikeelsed käsud: /aruanne, /plaan. Osa Kasulik AI SMB Skills Collection'ist.",
+  "version": "1.1.0",
+  "commands": [
+    {
+      "name": "aruanne",
+      "description": "Koosta aruandeid ja ülevaateid — olekuraport, finantsaruanne, juhatuse uuendus",
+      "file_path": "commands/aruanne.md"
+    },
+    {
+      "name": "plaan",
+      "description": "Loo strateegilisi plaane — konkurentsianalüüs, SWOT, tegevuskava",
+      "file_path": "commands/plaan.md"
+    }
+  ]
+}

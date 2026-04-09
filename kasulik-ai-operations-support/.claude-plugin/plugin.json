@@ -1,0 +1,17 @@
+{
+  "name": "kasulik-ai-operations-support",
+  "description": "Operatiivne tugi VKE-dele — kliendisuhtlus, KKK artiklid, protsesside dokumenteerimine ja optimeerimine. Eestikeelsed käsud: /klient, /protsess. Osa Kasulik AI SMB Skills Collection'ist.",
+  "version": "1.1.0",
+  "commands": [
+    {
+      "name": "klient",
+      "description": "Halda kliendisuhtlust — vasta päringutele, käsitle kaebusi, loo KKK artikleid",
+      "file_path": "commands/klient.md"
+    },
+    {
+      "name": "protsess",
+      "description": "Dokumenteeri või optimeeri äriprotsess — SOP, RACI maatriks, kitsaskohtade analüüs",
+      "file_path": "commands/protsess.md"
+    }
+  ]
+}

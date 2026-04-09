@@ -1,0 +1,27 @@
+{
+  "name": "kasulik-ai-turism",
+  "description": "AI oskused turismiettevõtetele — strateegia, turundus, müük, külastuskogemus ja analüütika. Eestikeelsed käsud: /turism, /hooaeg, /arvustus, /külastaja. Osa Kasulik AI SMB Skills Collection'ist.",
+  "version": "1.0.0",
+  "commands": [
+    {
+      "name": "turism",
+      "description": "Turismiettevõtte AI abiline — strateegiast analüütikani",
+      "argument-hint": "<teema>"
+    },
+    {
+      "name": "hooaeg",
+      "description": "Hooajaplaneerimine — kõrg-, vahe- ja madalhooaja strateegiad",
+      "argument-hint": "<hooaeg>"
+    },
+    {
+      "name": "arvustus",
+      "description": "Arvustustele vastamine — Google, Booking, TripAdvisor, Facebook",
+      "argument-hint": "<arvustuse tüüp>"
+    },
+    {
+      "name": "külastaja",
+      "description": "Külastaja teekonna optimeerimine — broneerimiseelsest kuni külastusjärgseni",
+      "argument-hint": "<teekonna etapp>"
+    }
+  ]
+}

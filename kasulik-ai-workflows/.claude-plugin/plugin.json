@@ -1,0 +1,15 @@
+{
+  "name": "kasulik-ai-workflows",
+  "description": "AI workspace setup, coaching, AI assistant creation, and continuous improvement for SMBs. Eestikeelsed käsud: /alusta, /agendid, /töövood, /ülevaade, /tabel, /wordpress. Part of the Kasulik AI SMB Skills Collection.",
+  "version": "1.1.0",
+  "commands": [
+    { "name": "alusta", "description": "Tark alguspunkt — seadistamine, parendamine või coaching", "file_path": "commands/alusta.md" },
+    { "name": "agendid", "description": "AI assistendi loomine — 6-faasiseline intervjuu ja genereerimine", "file_path": "commands/agendid.md" },
+    { "name": "töövood", "description": "Eelseadistatud mitmeskillsed töövood", "file_path": "commands/töövood.md" },
+    { "name": "ülevaade", "description": "Iganädalane AI kasutuse ülevaade", "file_path": "commands/ülevaade.md" },
+    { "name": "tabel", "description": "Exceli ja CSV failide analüüs", "file_path": "commands/tabel.md" },
+    { "name": "wordpress", "description": "WordPress MCP integreerimise juhend", "file_path": "commands/wordpress.md" },
+    { "name": "workflows", "description": "Pre-built multi-skill workflows (EN)", "file_path": "commands/workflows.md" },
+    { "name": "review", "description": "Weekly AI workspace review (EN)", "file_path": "commands/review.md" }
+  ]
+}
