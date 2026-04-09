@@ -3,7 +3,7 @@
   "description": "Operatsioonid ja kliendisuhtlus — protsesside dokumenteerimine, kliendisuhtlus, teadmistebaas ja protsesside optimeerimine. Skills: /klient, /protsess, /process-doc, /process-optimization, /kb-article, /draft-response. Part of the Kasulik AI SMB Skills Collection.",
   "version": "2.2.0",
   "author": {
-    "name": "Kristo Peterson",
+    "name": "Kristo Peterson (Kasulik AI)",
     "email": "kristo@kasulik.ai"
   }
 }
