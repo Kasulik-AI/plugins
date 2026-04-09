@@ -1,6 +1,6 @@
 ---
-description: Hooajaplaneerimine — kõrg-, vahe- ja madalhooaja strateegiad
-argument-hint: "<hooaeg>"
+name: hooaeg
+description: "Hooajaplaneerimine — kõrg-, vahe- ja madalhooaja strateegiad Kasuta kui kasutaja kirjutab '/hooaeg' või mainib seotud teemasid."
 ---
 
 # /hooaeg — hooajaplaneerimine

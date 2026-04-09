@@ -1,6 +1,6 @@
 ---
-description: "Analüüsi Exceli ja tabeliandmeid Claude'iga — laadi üles, küsi, visualiseeri"
-argument-hint: ""
+name: tabel
+description: "Analüüsi Exceli ja tabeliandmeid Claude'iga — laadi üles, küsi, visualiseeri Kasuta kui kasutaja kirjutab '/tabel' või mainib seotud teemasid."
 ---
 
 # /tabel — Tabelite ja Exceli Analüüs

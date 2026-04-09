@@ -1,6 +1,6 @@
 ---
-description: "Iganädalane ülevaade — mis läks hästi, mida parandada, järgmise nädala fookus"
-argument-hint: ""
+name: ülevaade
+description: "Iganädalane ülevaade — mis läks hästi, mida parandada, järgmise nädala fookus Kasuta kui kasutaja kirjutab '/ülevaade' või mainib seotud teemasid."
 ---
 
 # /ülevaade — Iganädalane Kokkuvõte

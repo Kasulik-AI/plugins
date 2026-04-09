@@ -1,6 +1,6 @@
 ---
-description: Turismiettevõtte AI abiline — strateegiast analüütikani
-argument-hint: "<teema>"
+name: turism
+description: "Turismiettevõtte AI abiline — strateegiast analüütikani Kasuta kui kasutaja kirjutab '/turism' või mainib seotud teemasid."
 ---
 
 # /turism — turismiettevõtte AI abiline

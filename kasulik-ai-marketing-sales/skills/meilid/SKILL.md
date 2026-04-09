@@ -1,6 +1,6 @@
 ---
-description: "Loo meilikampaaniad ja -mallid — tervitusmeilid, müügijärjestused, uudiskirjad, järeltegevused"
-argument-hint: "<meili tüüp>"
+name: meilid
+description: "Loo meilikampaaniad ja -mallid — tervitusmeilid, müügijärjestused, uudiskirjad, järeltegevused Kasuta kui kasutaja kirjutab '/meilid' või mainib seotud teemasid."
 ---
 
 # /meilid — Meilikampaaniad ja Mallid

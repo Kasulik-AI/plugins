@@ -1,6 +1,6 @@
 ---
-description: Arvustustele vastamine — Google, Booking, TripAdvisor, Facebook
-argument-hint: "<arvustuse tüüp>"
+name: arvustus
+description: "Arvustustele vastamine — Google, Booking, TripAdvisor, Facebook Kasuta kui kasutaja kirjutab '/arvustus' või mainib seotud teemasid."
 ---
 
 # /arvustus — arvustustele vastamine ja maine haldus

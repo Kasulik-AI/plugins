@@ -1,6 +1,6 @@
 ---
-description: "Start here — set up your AI workspace or get coaching to improve it"
-argument-hint: ""
+name: alusta
+description: "Start here — set up your AI workspace or get coaching to improve it Kasuta kui kasutaja kirjutab '/alusta' või mainib seotud teemasid."
 ---
 
 # /alusta — Your AI Starting Point

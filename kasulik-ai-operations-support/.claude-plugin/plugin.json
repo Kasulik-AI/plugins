@@ -1,5 +1,5 @@
 {
   "name": "kasulik-ai-operations-support",
-  "description": "Operatiivne tugi VKE-dele — kliendisuhtlus, KKK artiklid, protsesside dokumenteerimine ja optimeerimine. Eestikeelsed käsud: /klient, /protsess. Osa Kasulik AI SMB Skills Collection'ist.",
-  "version": "1.2.0"
+  "description": "Operatsioonid ja kliendisuhtlus — protsesside dokumenteerimine, kliendisuhtlus, teadmistebaas ja protsesside optimeerimine. Skills: /klient, /protsess, /process-doc, /process-optimization, /kb-article, /draft-response. Part of the Kasulik AI SMB Skills Collection.",
+  "version": "2.0.0"
 }

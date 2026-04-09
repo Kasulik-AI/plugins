@@ -1,6 +1,6 @@
 ---
-description: Külastaja teekonna optimeerimine — broneerimiseelsest kuni külastusjärgseni
-argument-hint: "<teekonna etapp>"
+name: külastaja
+description: "Külastaja teekonna optimeerimine — broneerimiseelsest kuni külastusjärgseni Kasuta kui kasutaja kirjutab '/külastaja' või mainib seotud teemasid."
 ---
 
 # /külastaja — külastaja teekonna optimeerimine

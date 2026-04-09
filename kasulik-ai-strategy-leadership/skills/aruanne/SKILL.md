@@ -1,6 +1,6 @@
 ---
-description: "Koosta aruandeid ja ülevaateid — olekuraport, finantsaruanne, juhatuse uuendus, meeskonna raport"
-argument-hint: "<aruande tüüp>"
+name: aruanne
+description: "Koosta aruandeid ja ülevaateid — olekuraport, finantsaruanne, juhatuse uuendus, meeskonna raport Kasuta kui kasutaja kirjutab '/aruanne' või mainib seotud teemasid."
 ---
 
 # /aruanne — Aruanded ja Ülevaated

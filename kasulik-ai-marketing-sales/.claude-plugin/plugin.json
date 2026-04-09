@@ -1,5 +1,5 @@
 {
   "name": "kasulik-ai-marketing-sales",
-  "description": "Curated marketing & sales skills for SMBs. Copywriting, SEO, email sequences, pricing, outreach, competitive intel, and brand voice. Eestikeelsed käsud: /kontekst, /tekst, /meilid. Part of the Kasulik AI SMB Skills Collection.",
-  "version": "1.2.0"
+  "description": "Turundus, müük ja sisuloome SMB-dele — kontekst, copywriting, SEO, meilikampaaniad, müügikõned, brändi hääl ja konkurentsianalüüs. Skills: /kontekst, /tekst, /meilid, /call-summary + 19 auto-triggered skills. Part of the Kasulik AI SMB Skills Collection.",
+  "version": "2.0.0"
 }

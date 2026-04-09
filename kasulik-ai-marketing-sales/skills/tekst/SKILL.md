@@ -1,6 +1,6 @@
 ---
-description: "Kirjuta turundus- ja müügitekste — koduleht, sotsiaalmeedia, reklaamid, blogipostitused"
-argument-hint: "<teksti tüüp või teema>"
+name: tekst
+description: "Kirjuta turundus- ja müügitekste — koduleht, sotsiaalmeedia, reklaamid, blogipostitused Kasuta kui kasutaja kirjutab '/tekst' või mainib seotud teemasid."
 ---
 
 # /tekst — Turundus- ja Müügitekstid

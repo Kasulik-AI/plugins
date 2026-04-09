@@ -1,6 +1,6 @@
 ---
-description: "Vaata saadaolevaid töövoogusid — valmis retseptid levinumateks ülesanneteks"
-argument-hint: ""
+name: töövood
+description: "Vaata saadaolevaid töövoogusid — valmis retseptid levinumateks ülesanneteks Kasuta kui kasutaja kirjutab '/töövood' või mainib seotud teemasid."
 ---
 
 # /töövood — Töövoogude Retseptid

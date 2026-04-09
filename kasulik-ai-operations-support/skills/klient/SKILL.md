@@ -1,6 +1,6 @@
 ---
-description: "Halda kliendisuhtlust — vasta päringutele, käsitle kaebusi, loo KKK artikleid"
-argument-hint: "<olukorra kirjeldus>"
+name: klient
+description: "Halda kliendisuhtlust — vasta päringutele, käsitle kaebusi, loo KKK artikleid Kasuta kui kasutaja kirjutab '/klient' või mainib seotud teemasid."
 ---
 
 # /klient — Kliendisuhtluse Haldamine

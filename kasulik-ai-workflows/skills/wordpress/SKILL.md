@@ -1,6 +1,6 @@
 ---
-description: "Ühenda oma WordPress veebileht Claude'iga — samm-sammuline juhend"
-argument-hint: ""
+name: wordpress
+description: "Ühenda oma WordPress veebileht Claude'iga — samm-sammuline juhend Kasuta kui kasutaja kirjutab '/wordpress' või mainib seotud teemasid."
 ---
 
 # /wordpress — WordPress Ühendamine Claude'iga

@@ -1,5 +1,5 @@
 {
   "name": "kasulik-ai-turism",
-  "description": "AI oskused turismiettevõtetele — strateegia, turundus, müük, külastuskogemus ja analüütika. Eestikeelsed käsud: /turism, /hooaeg, /arvustus, /külastaja. Osa Kasulik AI SMB Skills Collection'ist.",
-  "version": "1.2.0"
+  "description": "Eesti turismiettevõtete AI tööriistakast — strateegia, turundus, müük, külastuskogemus, analüütika, hooajaplaneerimine ja arvustuste haldus. Skills: /turism, /hooaeg, /arvustus, /külastaja, /strateegia, /turundus-sisu, /müük-kliendid, /külastuskogemus, /analüütika. Part of the Kasulik AI SMB Skills Collection.",
+  "version": "2.0.0"
 }

@@ -1,6 +1,6 @@
 ---
-description: Process call notes or a transcript — extract action items, draft follow-up email, generate internal summary
-argument-hint: "<call notes or transcript>"
+name: call-summary
+description: "Process call notes or a transcript — extract action items, draft follow-up email, generate internal summary Kasuta kui kasutaja kirjutab '/call-summary' või mainib seotud teemasid."
 ---
 
 # /call-summary

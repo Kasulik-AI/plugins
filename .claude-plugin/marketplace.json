@@ -1,43 +1,41 @@
 {
-  "name": "kasulik-ai",
+  "name": "kasulik-ai-plugins",
+  "version": "2.0.0",
   "owner": {
     "name": "Kasulik AI",
-    "email": "info@kasulik.ai"
+    "email": "kristo@kasulik.ai"
   },
-  "metadata": {
-    "description": "AI skills collection for Estonian SMBs — tourism, marketing, sales, operations, strategy, and workflows.",
-    "version": "1.2.0"
-  },
+  "description": "AI plugins for small and medium businesses. 54 skills across tourism, marketing, sales, operations, strategy, and AI workflow coaching. All skills work as /slash-commands in Cowork. Built by Kasulik AI (kasulik.ai).",
   "plugins": [
     {
       "name": "kasulik-ai-workflows",
       "source": "./kasulik-ai-workflows",
-      "description": "AI workspace setup, coaching, assistant creation, and continuous improvement. Commands: /alusta, /agendid, /wordpress, /toovood, /ulevaade, /tabel.",
-      "version": "1.2.0"
+      "description": "9 skills: workspace setup, AI coaching, assistant creation, workflow recipes, weekly review, Excel analysis, and WordPress integration.",
+      "version": "2.0.0"
     },
     {
       "name": "kasulik-ai-turism",
       "source": "./kasulik-ai-turism",
-      "description": "AI skills for tourism businesses — strategy, marketing, sales, guest experience, and analytics. Estonian commands: /turism, /hooaeg, /arvustus, /kulastaja.",
-      "version": "1.2.0"
+      "description": "9 skills for tourism businesses — strategy, marketing, sales, guest experience, analytics, seasonal planning, reviews, and customer journey.",
+      "version": "2.0.0"
     },
     {
       "name": "kasulik-ai-marketing-sales",
       "source": "./kasulik-ai-marketing-sales",
-      "description": "Marketing & sales skills for SMBs — copywriting, SEO, email sequences, pricing, outreach, competitive intel, and brand voice. Estonian commands: /kontekst, /tekst, /meilid.",
-      "version": "1.2.0"
+      "description": "24 skills for copywriting, SEO, email sequences, pricing, outreach, competitive intel, brand voice, and marketing context.",
+      "version": "2.0.0"
     },
     {
       "name": "kasulik-ai-operations-support",
       "source": "./kasulik-ai-operations-support",
-      "description": "Operations & support skills — customer responses, knowledge base articles, process documentation, and optimization. Estonian commands: /klient, /protsess.",
-      "version": "1.2.0"
+      "description": "6 skills for customer communication, process documentation, knowledge base articles, and process optimization.",
+      "version": "2.0.0"
     },
     {
       "name": "kasulik-ai-strategy-leadership",
       "source": "./kasulik-ai-strategy-leadership",
-      "description": "Strategy & leadership skills — competitive analysis, financial statements, stakeholder communications, internal comms. Estonian commands: /aruanne, /plaan.",
-      "version": "1.2.0"
+      "description": "6 skills for reports, strategic plans, competitive analysis, financial statements, stakeholder communications, and internal communications.",
+      "version": "2.0.0"
     }
   ]
 }

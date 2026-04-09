@@ -1,6 +1,6 @@
 ---
-description: "Loo strateegilisi plaane — konkurentsianalüüs, SWOT, tegevuskava, hooajaplaan"
-argument-hint: "<plaani tüüp>"
+name: plaan
+description: "Loo strateegilisi plaane — konkurentsianalüüs, SWOT, tegevuskava, hooajaplaan Kasuta kui kasutaja kirjutab '/plaan' või mainib seotud teemasid."
 ---
 
 # /plaan — Strateegilised Plaanid

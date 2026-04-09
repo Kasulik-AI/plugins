@@ -1,6 +1,6 @@
 ---
-description: "Dokumenteeri või optimeeri äriprotsess — SOP, RACI maatriks, kitsaskohtade analüüs"
-argument-hint: "<protsessi nimi>"
+name: protsess
+description: "Dokumenteeri või optimeeri äriprotsess — SOP, RACI maatriks, kitsaskohtade analüüs Kasuta kui kasutaja kirjutab '/protsess' või mainib seotud teemasid."
 ---
 
 # /protsess — Protsesside Dokumenteerimine ja Optimeerimine

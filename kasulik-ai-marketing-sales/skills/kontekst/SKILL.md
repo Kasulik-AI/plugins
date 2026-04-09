@@ -1,6 +1,6 @@
 ---
-description: "Seadista oma ettevõtte turunduskontekst — sihtrühm, positsioneerimine, konkurendid ja brändi hääl"
-argument-hint: ""
+name: kontekst
+description: "Seadista oma ettevõtte turunduskontekst — sihtrühm, positsioneerimine, konkurendid ja brändi hääl Kasuta kui kasutaja kirjutab '/kontekst' või mainib seotud teemasid."
 ---
 
 # /kontekst — Turunduse Alustala
