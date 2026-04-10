@@ -1,43 +1,149 @@
 ---
 name: alusta
-description: "Start here — set up your AI workspace or get coaching to improve it Kasuta kui kasutaja kirjutab '/alusta' või mainib seotud teemasid."
+description: "Start here — set up your AI workspace or get coaching to improve it. Kasuta kui kasutaja kirjutab '/alusta' või mainib: set up workspace, new project, configure Claude, alusta, seadista, uus projekt, tööruumi seadistamine."
 ---
 
-# /alusta — Your AI Starting Point
+# /alusta — AI Töökeskkonna Seadistamine
 
-This command adapts to where you are:
+See käsk kohandub vastavalt sinu praegusele seisule: uus kasutaja saab täieliku setup'i,
+olemasolev kasutaja saab täiustamisvõimalused.
 
-## How It Works
+## Samm 0: Olemasoleva Tuvastamine (KRIITILINE)
 
-**First, detect workspace state:**
+**ENNE midagi loomist kontrolli ALATI:**
 
-1. Check if `CLAUDE.md` exists in the project root
-2. Check if `.auto-memory/MEMORY.md` exists
-3. Check which Kasulik plugins are installed
+1. `CLAUDE.md` — kas eksisteerib juurkaustas?
+2. `.auto-memory/MEMORY.md` — kas eksisteerib?
+3. `memory/` kaust — kas eksisteerib?
+4. `.claude/settings.json` — kas on juba konfigureeritud?
 
-**Then route to the right mode:**
+**Kui MIDAGI eksisteerib → ÄRA LOO UUESTI.**
+→ Näita kasutajale mis juba olemas on
+→ Paku ainult: täiendamine, uuendamine, ülevaade
+→ Küsi kinnitust ENNE igasugust muutmist
 
-### 🆕 No CLAUDE.md found → First-Time Setup
-"Welcome! Let's set up your AI workspace so I can help you effectively."
-→ Load and follow the **workspace-setup** skill
-→ Quick setup (5-10 min) first, offer deep mode after
+**Kui mitte midagi ei eksisteeri → Täielik seadistamine (allpool)**
 
-### 🔧 CLAUDE.md exists but basic → Improvement Mode  
-"Your workspace is set up. Let's make it more powerful."
+## Marsruutimine
 
-Offer choices:
-1. **Deepen your context** — update CLAUDE.md with more business detail
-2. **Create a custom skill** — build workflows specific to your business
-3. **Learn workflow recipes** — discover multi-skill workflows for your daily tasks
-4. **Get coaching** — tips on prompting and iteration
+| Seis | Tegevus |
+|------|---------|
+| 🆕 CLAUDE.md puudub | → Täielik seadistamine (Quick Setup) |
+| 🔧 CLAUDE.md olemas, aga baasne | → Täiustamisrežiim |
+| 🚀 CLAUDE.md + memory + skill olemas | → Suuna /ai-coach skillile |
 
-### 🚀 CLAUDE.md + memory mature → Coaching Mode
-"You're up and running! What can I help you improve?"
-→ Load and follow the **ai-coach** skill
-→ Offer: run `/review` for weekly check-in, `/workflows` for recipe reference
+---
 
-## What I Need From You
+## Täielik Seadistamine (Quick Setup — 5-10 min)
 
-Just run `/alusta` — I'll figure out where you are and guide you from there.
+### Samm 1: Põhiintervjuu
 
-If this is your first time: have your **company website URL** ready (if you have one). I'll research it so you don't have to explain everything from scratch.
+Küsi ÜKS küsimus korraga. Kasuta valikvastuseid kus võimalik.
+
+1. "Mis on su ettevõtte/projekti nimi?"
+2. "Mida su ettevõte teeb? (ühe lausega)"
+3. "Kas sul on veebileht, mida saan uurida?" → Kui jah, kasuta WebSearch/WebFetch:
+   - Mida ettevõte teeb
+   - Sihtrühma signaalid
+   - Tooted/teenused
+   - Tooni ja keele mustrid
+4. "Mis on su roll?" (asutaja, turundusjuht, tegevjuht, müük jne)
+5. "Milleks sa peamiselt AI-d kasutad?" (valikvastused: turundus/sisu, müük, protsessid, strateegia, kõik)
+
+### Samm 2: Genereeri CLAUDE.md
+
+Kasuta malli [references/claude-md-template.md](references/claude-md-template.md).
+
+Kirjuta `CLAUDE.md` projekti juurkausta. Sisalda:
+- Ärikontekst (nimi, tegevus, sihtrühm)
+- Kasutaja roll ja peamised kasutusjuhud
+- Tooni/hääle juhised veebilehe uuringu põhjal
+- Installeeritud Kasulik pluginad ja nende põhiskillid
+- Kiirviide: "X jaoks proovi Y skilli"
+
+### Samm 3: Loo Memory-failid
+
+Loo `.auto-memory/` kaust:
+
+**MEMORY.md** (indeks):
+```markdown
+- [Ärikontekst](user_business.md) — {ettevõte} ülevaade, sihtrühm, positsioneerimine
+- [Kasutajaprofiil](user_profile.md) — {nimi}, {roll}, peamised AI kasutusjuhud
+```
+
+**user_business.md**:
+```markdown
+---
+name: Ärikontekst
+description: {ettevõte} — {ühe lausega mida teevad}
+type: user
+---
+{Intervjuust ja veebilehe uuringust saadud detailid}
+```
+
+**user_profile.md**:
+```markdown
+---
+name: Kasutajaprofiil
+description: {nimi}, {roll} — kasutab AI-d {peamised kasutusjuhud}
+type: user
+---
+{Roll, kogemustase, eesmärgid}
+```
+
+### Samm 4: Paku Süvaseadistamist
+
+Pärast quick setup'i valmimist küsi:
+
+"Sinu tööruum on valmis! Kas tahad minna sügavamale?
+1. **Loo kohandatud skill** — su ettevõtte spetsiifilised töövood (10-15 min)
+2. **Seadista töövoo retseptid** — igapäevaste ülesannete automatiseerimine (5 min)
+3. **Praegu piisab** — saad alati /alusta uuesti käivitada"
+
+---
+
+## Süvaseadistamine: Kohandatud Skill
+
+Kui kasutaja valib valiku 1:
+
+1. Laiendatud intervjuu töövoogude kohta:
+   - "Kirjelda tüüpilist töönädalat — mis ülesanded korduvad?"
+   - "Millist sisu lood kõige sagedamini?"
+   - "Milliseid otsuseid teed regulaarselt, kus AI saaks aidata?"
+   - "Kas on terminoloogiat, malle või protsesse, mis on su äri jaoks unikaalsed?"
+
+2. Loo kohandatud skill `skills/{ettevõtte-nimi}-töövood/SKILL.md`:
+   - Ettevõttespetsiifiline terminoloogia ja kontekst
+   - Levinumad ülesandemallid (e-kirja formaadid, aruannete struktuurid jne)
+   - Otsustusraamistikud nende valdkonnale
+   - Viited product-marketing-context'ile kui see eksisteerib
+
+3. Nimeta skill `{ettevõtte-nimi}-töövood` (nt `acme-töövood`)
+
+## Süvaseadistamine: Töövoo Retseptid
+
+Kui kasutaja valib valiku 2:
+
+Loe [ai-coach skill'i viited](../ai-coach/references/workflow-recipes.md) ja esita 3-5 kõige relevantsemad retseptid kasutaja rolli ja kasutusjuhtude põhjal. Salvesta valitud retseptid memory'sse.
+
+---
+
+## Täiustamisrežiim (CLAUDE.md juba olemas)
+
+Näita mis juba olemas on ja paku valikuid:
+
+1. **Süvenda konteksti** — uuenda CLAUDE.md täiendava äridetailiga
+2. **Loo kohandatud skill** — ehita su äri spetsiifilised töövood
+3. **Õpi töövoo retsepte** — avasta multi-skill töövood igapäevasteks ülesanneteks
+4. **Saa coaching'ut** — promptimise ja itereerimise nipid → suuna /ai-coach
+
+---
+
+## Põhimõtted
+
+- **Üks küsimus korraga** — ära dumbi vormi
+- **Uuri enne küsimist** — kui annavad URL-i, ammuta sealt mida saad enne lisaküsimusi
+- **Näita progressi** — kasuta TodoWrite et setup-sammud oleksid jälgitavad
+- **Mõistlikud vaikeväärtused** — kui kasutaja jätab küsimuse vahele, kasuta uuringu põhjal vaikeväärtusi
+- **Lõpeta alati järgmise sammuga** — "Proovi küsida mult [konkreetne ülesanne nende rollile]"
+- **Eesti äridele:** küsi kas eelistavad eesti- või ingliskeelset väljundit

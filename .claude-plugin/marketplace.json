@@ -1,17 +1,17 @@
 {
   "name": "kasulik-ai-plugins",
-  "version": "2.2.0",
+  "version": "3.0.0",
   "owner": {
     "name": "Kasulik AI",
     "email": "kristo@kasulik.ai"
   },
-  "description": "AI plugins for small and medium businesses. 54 skills across tourism, marketing, sales, operations, strategy, and AI workflow coaching. All skills work as /slash-commands in Cowork. Built by Kasulik AI (kasulik.ai).",
+  "description": "Eestikeelsed AI pluginad väikeettevõtjatele. 24 skilli: AI tööruum, turism, igapäevane ettevõtlus. Kõik skillid töötavad /käskudena Coworkis. Ehitatud Kasulik AI poolt (kasulik.ai).",
   "plugins": [
     {
       "name": "kasulik-tööruum",
       "source": "./kasulik-tööruum",
-      "description": "9 skills: workspace setup, AI coaching, assistant creation, workflow recipes, weekly review, Excel analysis, and WordPress integration.",
-      "version": "2.2.0",
+      "description": "7 skilli: AI töökeskkonna seadistamine, coaching, assistentide loomine, töövoo retseptid, iganädalane ülevaade, Exceli analüüs, WordPress ühendamine.",
+      "version": "3.0.0",
       "author": {
         "name": "Kristo Peterson (Kasulik AI)",
         "email": "kristo@kasulik.ai"
@@ -20,38 +20,18 @@
     {
       "name": "kasulik-turism",
       "source": "./kasulik-turism",
-      "description": "9 skills for tourism businesses — strategy, marketing, sales, guest experience, analytics, seasonal planning, reviews, and customer journey.",
-      "version": "2.2.0",
+      "description": "9 skilli turismiettevõtetele — strateegia, turundus, müük, külastuskogemus, analüütika, hooajaplaneerimine, arvustused, klienditeekond.",
+      "version": "3.0.0",
       "author": {
         "name": "Kristo Peterson (Kasulik AI)",
         "email": "kristo@kasulik.ai"
       }
     },
     {
-      "name": "kasulik-turundus-ja-müük",
-      "source": "./kasulik-turundus-ja-müük",
-      "description": "24 skills for copywriting, SEO, email sequences, pricing, outreach, competitive intel, brand voice, and marketing context.",
-      "version": "2.2.0",
-      "author": {
-        "name": "Kristo Peterson (Kasulik AI)",
-        "email": "kristo@kasulik.ai"
-      }
-    },
-    {
-      "name": "kasulik-tugi-ja-teenindus",
-      "source": "./kasulik-tugi-ja-teenindus",
-      "description": "6 skills for customer communication, process documentation, knowledge base articles, and process optimization.",
-      "version": "2.2.0",
-      "author": {
-        "name": "Kristo Peterson (Kasulik AI)",
-        "email": "kristo@kasulik.ai"
-      }
-    },
-    {
-      "name": "kasulik-strateegia-ja-juhtimine",
-      "source": "./kasulik-strateegia-ja-juhtimine",
-      "description": "6 skills for reports, strategic plans, competitive analysis, financial statements, stakeholder communications, and internal communications.",
-      "version": "2.2.0",
+      "name": "kasulik-ettevõtlus",
+      "source": "./kasulik-ettevõtlus",
+      "description": "8 skilli igapäevaseks ettevõtluseks — turunduskopii, meilid, kliendisuhtlus, protsessid, aruanded, strateegiad, kõnekokkuvõtted, turunduskontekst.",
+      "version": "3.0.0",
       "author": {
         "name": "Kristo Peterson (Kasulik AI)",
         "email": "kristo@kasulik.ai"

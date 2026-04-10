@@ -1,6 +1,6 @@
 ---
 name: töövood
-description: "Vaata saadaolevaid töövoogusid — valmis retseptid levinumateks ülesanneteks Kasuta kui kasutaja kirjutab '/töövood' või mainib seotud teemasid."
+description: "Vaata saadaolevaid töövoogusid — valmis retseptid levinumateks ülesanneteks. Kasuta kui kasutaja kirjutab '/töövood' või mainib: workflows, töövoog, retseptid, kuidas teha, samm-sammuline."
 ---
 
 # /töövood — Töövoogude Retseptid
@@ -10,24 +10,32 @@ Valmis samm-sammulised töövood levinumate ülesannete jaoks. Iga töövoog üh
 ## Saadaolevad töövood
 
 ### Turundus ja sisuloome
-1. **Kodulehe uuendamine**: /kontekst → seo-audit → copywriting → brand-review
-2. **Sotsiaalmeedia kuu**: /kontekst → campaign-plan → draft-content → brand-voice
-3. **Meilikampaania**: /kontekst → email-sequence → copy-editing → A/B variandid
-4. **SEO parandamine**: seo-audit → copywriting → draft-content (blog)
+1. **Kodulehe uuendamine**: /kontekst → /tekst (lehetekstid) → ülevaatus
+2. **Sotsiaalmeedia kuu**: /kontekst → /tekst (postitused) → A/B variandid
+3. **Meilikampaania**: /kontekst → /meilid (järjestus) → A/B variandid
+4. **Blogipostitus**: /kontekst → /tekst (blogiartikkel SEO-ga)
 
 ### Müük ja kliendisuhted
-5. **Uuele päringule vastamine**: /klient → draft-response → järeltegevuste plaan
-6. **Müügipakkumise koostamine**: account-research → copywriting → brand-review
-7. **Arvustusele vastamine**: /klient → draft-response → kb-article (kui kordub)
+5. **Päringule vastamine**: /klient → vastuse koostamine → järeltegevuste plaan
+6. **Kõne järeltöötlus**: /kõnekokkuvõte → järelkiri → tegevuspunktid
+7. **Arvustusele vastamine**: /klient → vastus → KKK artikkel (kui kordub)
 
 ### Operatsioonid
-8. **Protsessi dokumenteerimine**: /protsess → process-doc → runbook
+8. **Protsessi dokumenteerimine**: /protsess → SOP + RACI maatriks
 9. **Nädala planeerimine**: /ülevaade → /plaan → prioriteetide seadmine
-10. **Uue hooaja ettevalmistus**: /plaan → campaign-plan → email-sequence
+10. **Uue hooaja ettevalmistus**: /plaan (hooajaplaan) → /meilid (kampaania) → /tekst (reklaamid)
 
 ### Strateegia
-11. **Aasta planeerimine**: competitive-analysis → /plaan → roadmap → campaign-plan
-12. **Hinnamuutuse analüüs**: pricing-strategy → competitive-analysis → copywriting
+11. **Aasta planeerimine**: /plaan (konkurentsianalüüs) → /plaan (strateegiline plaan) → /aruanne (juhatuse raport)
+12. **Kuu kokkuvõte**: andmete kogumine → /aruanne (kuu raport) → järeldused ja sammud
+
+## Kasulik AI pluginate kaart
+
+| Plugin | Skillid | Fookus |
+|--------|---------|--------|
+| **kasulik-tööruum** | /alusta, /agendid, /ai-coach, /töövood, /tabel, /wordpress, /ülevaade | AI workspace ja coaching |
+| **kasulik-turism** | /turism, /arvustus, /hooaeg, /külastaja, /külastuskogemus, /analüütika, /müük-kliendid, /strateegia, /turundus-sisu | Turismile spetsialiseeritud |
+| **kasulik-ettevõtlus** | /tekst, /meilid, /kontekst, /kõnekokkuvõte, /klient, /protsess, /aruanne, /plaan | Igapäevane ettevõtlus |
 
 ## Kuidas kasutada
 
@@ -40,5 +48,3 @@ Valmis samm-sammulised töövood levinumate ülesannete jaoks. Iga töövoog üh
 /töövood uue hooaja ettevalmistus
 /töövood mul on vaja kliendile vastata ja ma ei tea kuidas
 ```
-
-→ See on sama käsk mis /workflows — mõlemad töötavad.
