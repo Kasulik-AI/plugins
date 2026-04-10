@@ -1,0 +1,9 @@
+{
+  "name": "kasulik-strateegia",
+  "description": "Strateegia ja juhtimise AI tööriistakast — strateegilised plaanid, aruanded, protsesside dokumenteerimine, kasvustrateegiad ja konkurentsianalüüs. Skills: /plaan, /aruanne, /protsess, /kasv, /konkurent. Part of the Kasulik AI SMB Skills Collection.",
+  "version": "2.2.0",
+  "author": {
+    "name": "Kristo Peterson (Kasulik AI)",
+    "email": "kristo@kasulik.ai"
+  }
+}

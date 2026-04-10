@@ -86,3 +86,136 @@ Kogu kontekst (küsi kui pole antud):
 - Passiivne kõneviis?
 - Hüüumärgid? (eemalda)
 - Turunduse buzzword'id ilma sisuta?
+
+---
+
+## Turunduspsühholoogia Tööriistakast
+
+Kasuta neid mudeleid tekstide tugevdamiseks. Iga mudel sisaldab selgitust ja rakendamisjuhist.
+
+### Mõtlemise Mudelid (Strateegia)
+
+**Esimesed Põhimõtted (First Principles)**
+Lahuta probleem alustõdedeks ja ehita lahendus sealt. Ära kopeeri konkurente — küsi "miks" korduvalt.
+→ Enne teksti kirjutamist: miks klient seda vajab? Mis on tegelik probleem?
+
+**Jobs to Be Done**
+Inimesed ei osta tooteid — nad "palkavad" neid töö tegemiseks. Fookus tulemusel, mitte omadustel.
+→ Puuriostja ei taha puuri — ta tahab auku. Räägi tulemusest, mitte spetsifikatsioonidest.
+
+**Pareto Printsiip (80/20)**
+80% tulemustest tuleb 20% pingutustest. Tuvasta ja fokuseeri olulisele.
+→ Leia 2-3 peamist kasu, mis klienti kõige rohkem kõnetavad. Ära loetle kõike.
+
+**Inversioon**
+Küsi "mis garanteeriks ebaõnnestumise?" selle asemel et küsida "kuidas õnnestuda?". Siis väldi neid asju.
+→ Loetle kõik, mis teeks su teksti halvaks — segane sõnum, vale publik, nõrk CTA — ja väldi neid.
+
+### Ostja Psühholoogia
+
+**Mere Exposure Effect (Kokkupuuteefekt)**
+Inimesed eelistavad asju, mida nad on varem näinud. Tuttavlikkus tekitab meeldivust.
+→ Järjepidev brändi kohalolek ehitab eelistust aja jooksul.
+
+**Confirmation Bias (Kinnituskalduvus)**
+Inimesed otsivad infot, mis kinnitab olemasolevaid uskumusi.
+→ Mõista, mida su publik juba usub, ja joonda oma sõnumid vastavalt. Otsene vastuväitmine harva töötab.
+
+**Mimeetiline Iha**
+Inimesed tahavad asju, sest teised tahavad neid. Iha on sotsiaalselt nakkav.
+→ Näita, et ihaldatavad inimesed tahavad su toodet. Oodatejärjekorrad ja eksklusiivsus tekitavad iha.
+
+**Endowment Effect (Omandiefekt)**
+Inimesed väärtustavad asju rohkem, kui nad neid juba omavad.
+→ Tasuta proov, näidised ja freemium lasevad klientidel toodet "omada", muutes loobumise raskemaks.
+
+**Kaotusekartus (Loss Aversion)**
+Kaotused tunduvad ~2x valusemad kui samaväärsed võidud. Inimesed pingutavad rohkem kaotuse vältimiseks.
+→ Raamista selle järgi, mida nad KAOTAVAD mitte tegutsedes. "Ära jää ilma" > "Sa võid saada".
+
+**Status-Quo Bias**
+Inimesed eelistavad praegust olukorda. Muutus nõuab pingutust ja tundub riskantne.
+→ Vähenda vahetuse hõõrdumist. Muuda üleminek turvaliseks ja lihtsaks.
+
+**Valikuparadoks (Paradox of Choice)**
+Liiga palju valikuid halvab. Vähem valikuid viib rohkemate otsusteni.
+→ Piira valikuid. 3 hinnataset > 7. Soovita üht "enamikule sobivat" varianti.
+
+### Veenmise Tööriistad
+
+**Vastastikkus (Reciprocity)**
+Inimesed tunnevad kohustust teeneid tagasi teha. Anna enne ja inimesed tahavad vastu anda.
+→ Tasuta sisu, tasuta tööriistad ja helded tasuta tasemed loovad vastastikuse kohustuse.
+
+**Kohustus ja Järjepidevus (Commitment & Consistency)**
+Kui inimesed on millelegi pühendunud, tahavad nad selle pühendumisega järjepidevad olla.
+→ Alusta väikeste kohustustega (meililist, tasuta proov). Iga samm teeb järgmise tõenäolisemaks.
+
+**Autoriteedikalduvus**
+Inimesed kummardavad ekspertide ja autoriteetide ees.
+→ Kasuta ekspertide soovitusi, sertifikaate, "kajastatud" logosid ja arvamusliidri sisu.
+
+**Sotsiaalne Tõendus (Social Proof)**
+Inimesed järgivad teiste tegevusi. Populaarsus signaliseerib kvaliteeti ja turvalisust.
+→ Näita kliendinumbreid, iseloomustusi, logosid, arvustusi ja "populaarne" indikaatoreid.
+
+**Nappus ja Kiireloomulisus (Scarcity)**
+Piiratud saadavus suurendab tajutavat väärtust.
+→ Ajaliselt piiratud pakkumised, "vähe laos" hoiatused. Kasuta ainult siis, kui päris.
+
+### Hinnapsühholoogia
+
+**Ankurdamine (Anchoring)**
+Esimene number, mida inimesed näevad, mõjutab tugevalt järgnevaid hinnanguid.
+→ Näita kõrgemat hinda esmalt (algne hind, konkurendi hind, Enterprise tase).
+
+**Pettevariant (Decoy Effect)**
+Kolmanda, halvema variandi lisamine teeb ühe algsetest atraktiivsemaks.
+→ "Pettevariandi" hinnatase, mis on selgelt halvem väärtus, teeb eelistatud taseme ilmseks valikuks.
+
+**Raamistamine (Framing)**
+Kuidas midagi esitatakse, muudab selle tajumist. Samad faktid, erinev raam.
+→ "90% edumäär" vs "10% ebaõnnestumismäär" on identsed, aga tunduvad erinevalt. Raami positiivselt.
+
+**100 Reegel**
+Alla 100€ hindadel tunduvad protsentuaalsed soodustused suuremad ("20% alla"). Üle 100€ tunduvad absoluutsed soodustused suuremad ("50€ alla").
+→ 80€ toode: "20% alla" > "16€ alla". 500€ toode: "100€ alla" > "20% alla".
+
+**Vaimne Raamatupidamine (Mental Accounting)**
+Sama hinna erinev raamistamine muudab tajumist.
+→ "1€ päevas" tundub odavam kui "30€ kuus". "Vähem kui su hommikune kohv."
+
+### Disaini ja Konversiooni Mudelid
+
+**Hick'i Seadus**
+Otsustusaeg kasvab valikute arvu ja keerukusega. Rohkem valikuid = aeglasemad otsused = rohkem loobumisi.
+→ Lihtsusta valikuid. Üks selge CTA > kolm. Vähem vormiväljasid > rohkem.
+
+**AIDA Lehtner**
+Tähelepanu → Huvi → Iha → Tegevus. Klassikaline klienditeekonna mudel.
+→ Struktureeri lehed ja kampaaniad läbi iga etapi. Püüa esmalt tähelepanu.
+
+**BJ Foggi Käitumismudel**
+Käitumine = Motivatsioon × Võimekus × Tõuge. Kõik kolm peavad kohal olema.
+→ Kõrge motivatsioon aga raske teha = ei juhtu. Lihtne teha aga pole tõuget = ei juhtu.
+
+**Eesmärgi-Gradiendi Efekt**
+Inimesed kiirendavad pingutust eesmärgile lähenedes. Progressi visualiseerimine motiveerib.
+→ Näita progressiriba, valmidusprotsenti ja "peaaegu kohal" sõnumeid.
+
+**Tipu-Lõpu Reegel (Peak-End Rule)**
+Inimesed hindavad kogemusi tipu (parim/halvim hetk) ja lõpu, mitte keskmise järgi.
+→ Disaini meeldejäävaid tippe ja tugevaid lõppe (tänulehed, järelkirjad).
+
+### Kiirviide: Mudel Ülesande Järgi
+
+| Väljakutse | Kasuta neid mudeleid |
+|------------|---------------------|
+| Madal konversioon | Hick'i Seadus, BJ Fogg, Valikuparadoks |
+| Hinnavastuväited | Ankurdamine, Raamistamine, Vaimne Raamatupidamine, Kaotusekartus |
+| Usalduse ehitamine | Autoriteet, Sotsiaalne Tõendus, Vastastikkus, Pratfall |
+| Kiireloomulisuse tekitamine | Nappus, Kaotusekartus, Zeigarniki Efekt |
+| Kliendi hoidmine | Omandiefekt, Vahetuskulud, Status-Quo Bias |
+| Kasvu seiskumine | Piiranguteteooria, Lokaalne vs Globaalne Optimum |
+| Otsustusparalüüs | Valikuparadoks, Vaikevalik, Nudge'imine |
+| Onboarding | Eesmärgi-Gradient, IKEA Efekt, Kohustus ja Järjepidevus |
