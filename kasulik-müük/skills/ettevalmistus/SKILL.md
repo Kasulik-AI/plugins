@@ -11,24 +11,24 @@ description: "Valmista ette müügikõneks — ettevõtte uurimine, osalejate ta
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                  ETTEVALMISTUS                          │
-│              (Call Prep Framework)                      │
+│                                                         │
 ├─────────────────────────────────────────────────────────┤
 │                                                         │
-│  ALATI TÖÖTAB (Works Every Time)                       │
+│  ALATI TÖÖTAB                                          │
 │  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                    │
-│  • Ettevõtte kiirinfo (Crunchbase, LinkedIn, website)  │
+│  • Ettevõtte kiirinfo (Crunchbase, LinkedIn, veebileht)│
 │  • Osaleja LinkedIn profiilid & roll                   │
-│  • Eelmised suhtlused (email, CRM notes)               │
+│  • Eelmised suhtlused (e-post, CRM märkmed)            │
 │  • Turu kontekst & ajakohased sündmused                │
-│  • Otsinguküsimused avastuseks                         │
+│  • Avastusküsimused kõneks valmistumiseks              │
 │                                                         │
-│  SUPERCHARGED (Advanced)                               │
+│  TÄPSUSTATUD                                           │
 │  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                    │
 │  • Ettevõtte org. struktuur & otsustajad               │
-│  • Analoog-konkurrendi intel                           │
-│  • Kahtlused ja sissetulek-võimalused                  │
+│  • Konkurentide analüüs                                │
+│  • Sissetuleku- ja kasvuvõimalused                     │
 │  • Soovituslik 30/60 min. päevakord                    │
-│  • Personaliseeritud avaavalehed                       │
+│  • Personaliseeritud avaküsimused                      │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -100,8 +100,8 @@ LinkedIn: [Link] | Crunchbase: [Link]
 
 VIIMASED SUHTLUSED
 ──────────────────
-[Kuupäev]: [Kuka käest, millest rääkisime]
-[Kuupäev]: [Demo demo, vastuväited, lähivõrgud]
+[Kuupäev]: [Kellega, millest rääkisime]
+[Kuupäev]: [Demo, vastuväited, järgmised sammud]
 
 KÕNE PÄEVAKORD ([Minutid])
 ──────────────────────────
@@ -111,7 +111,7 @@ KÕNE PÄEVAKORD ([Minutid])
 
 AVASTUSKÜSIMUSED
 ────────────────
-1. [Küsimus – hankige valu]
+1. [Küsimus – valu avastamiseks]
 2. [Küsimus – otsustajad]
 3. [Küsimus – ajastus]
 4. [Küsimus – kriteeriumid]
@@ -146,13 +146,13 @@ Kui **30 min:**
 - 0–5: Tervitus + teie roll + laienemine
 - 5–15: Avastus (3 küsimust)
 - 15–25: Teiepoolne (case või demo)
-- 25–30: Saagis / KO
+- 25–30: Sulgemine
 
 Kui **45–60 min:**
 - 0–5: Tervitus
 - 5–20: Avastus + kontekst
 - 20–45: Demo / Lahendus / Hinnaarvutus
-- 45–60: KO + järgmised sammud
+- 45–60: Sulgemine + järgmised sammud
 
 ### Samm 4: Avastusküsimused
 Rääkige järgmisest:
@@ -176,13 +176,13 @@ Otsige otserindes enne kõnet:
 - **Eesmärk**: Valus avada, konteksti koguda, demo ajastamine
 - **Fookus**: Küsimused, aktne kuulamine
 - **Väljund**: Kas on võimalus demole? (Jah/Ei/Võib-olla)
-- **Päevakord**: Intro → Avastus → Teie (1 real-case) → KO
+- **Päevakord**: Intro → Avastus → Teie (1 real-case) → Sulgemine
 
 ### Demo (45–60 min)
 - **Eesmärk**: Näita meie lahendust nende konteksti peal
 - **Fookus**: Näita vaid seda, mis neile *vajalik* (kuule esmalt!)
 - **Väljund**: Vastuväidete käsitlemine, hinnastamise arutelu
-- **Päevakord**: Johdatus → Konteksti küsimused (5 min) → Demo (20–30 min) → Vastuväidete käsitlemine → KO
+- **Päevakord**: Johdatus → Konteksti küsimused (5 min) → Demo (20–30 min) → Vastuväidete käsitlemine → Sulgemine
 
 ### Läbirääkimine (30–45 min)
 - **Eesmärk**: Hinnaarvutus, tingimuste kaardistamine, aluspakkumise viimistlemine
@@ -191,21 +191,21 @@ Otsige otserindes enne kõnet:
 - **Päevakord**: Tervitus → Nende hinnaarvu- ja tingimuste nägemine → Meie eeldus → Kokkulepe
 
 ### Järelkontroll (15–30 min)
-- **Eesmärk**: Objekt, vastuväidete käsitlemine, lähiklik / KO
+- **Eesmärk**: Objekt, vastuväidete käsitlemine, lähiklik / Sulgemine
 - **Fookus**: Kuulamine, objektidele lahendus
 - **Väljund**: Saagid e saada uut versiooni pakkumisest
-- **Päevakord**: Pikk kuulamine (mis muutus?) → Ühe objekti lahendus → KO
+- **Päevakord**: Pikk kuulamine (mis muutus?) → Ühe objekti lahendus → Sulgemine
 
 ---
 
 ## Kõne jälgimine
 
 ### Kõne ajal
-- **Märkmete vormistus**: Osalejate nimed, KO, vastuväidete märkmeid
+- **Märkmete vormistus**: Osalejate nimed, Sulgemine, vastuväidete märkmeid
 - **Helisalvestis**: Küsi luba enne; kasutage teenust nagu [Otter.ai](https://otter.ai) automaatse kõnekokkuvõtte jaoks
 
 ### Kõne järel (24 tunniga)
-- **Kõnekokkuvõte**: Avastusküsimuste vastused, vastuväidete märkmeid, KO
+- **Kõnekokkuvõte**: Avastusküsimuste vastused, vastuväidete märkmeid, Sulgemine
 - **CRM-i värskendus**: Etapp, märkmeid, järgmised sammud
 - **Järelkontaktne email**: Tänu + kokkuvõte (5–7 lauseid)
 - **Kalender**: Järgmine kohtumise aeg või „Otsi uuesti"
@@ -227,4 +227,4 @@ Otsige otserindes enne kõnet:
 
 - `/prospekt` — Enne ettevalmistust: vaadake prospekti täielik profiil
 - `/kõnekokkuvõte` — Kõne järel: automaatne kõnekokkuvõte + vastuväidete klassifitseerimine
-- `/outreach` — Järgmisel sammul: saadage järelkontaktne email otsese soovitusega
+- `/pöördumine` — Järgmisel sammul: saatke järelkontakt-email otsese soovitusega
