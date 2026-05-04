@@ -150,6 +150,10 @@ This collection curates selected frameworks from:
 
 All curated content is used in accordance with respective licenses.
 
+## License
+
+This collection is licensed under the **Apache License 2.0** — see [LICENSE](LICENSE) for the full text. Free for commercial and non-commercial use, with attribution.
+
 ## About
 
 Built by [Kasulik AI](https://kasulik.ai) — practical AI training for businesses. Founded by Kristo Peterson.

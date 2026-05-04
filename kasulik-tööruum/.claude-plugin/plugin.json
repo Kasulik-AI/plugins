@@ -5,5 +5,9 @@
   "author": {
     "name": "Kristo Peterson (Kasulik AI)",
     "email": "kristo@kasulik.ai"
-  }
+  },
+  "license": "Apache-2.0",
+  "repository": "https://github.com/Kasulik-AI/kasulik-ai-plugins",
+  "homepage": "https://kasulik.ai",
+  "keywords": ["estonian", "ai-workspace", "smb", "claude", "cowork", "kasulik-ai"]
 }
