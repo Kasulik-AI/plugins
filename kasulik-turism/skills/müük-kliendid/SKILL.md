@@ -136,8 +136,9 @@ Professionaalne reageerimine ootamatutes olukordades:
 
 ## Seotud oskused
 
-- **Müügistrateegia planeerimine** → kasulik-ai-turism/strateegia
-- **E-posti automatiseerimise vood** → kasulik-ai-marketing-sales/email-sequence
-- **Klienditeeninduse mallid** → kasulik-ai-operations-support/draft-response
-- **Arvustuste haldamine** → /arvustus käsk
-- **Külastaja teekond** → /külastaja käsk ja kasulik-ai-turism/külastuskogemus
+- **Müügistrateegia planeerimine** → `/strateegia` (turism)
+- **E-posti automatiseerimise vood** → `/meilid` (kasulik-turundus plugin)
+- **Klienditeeninduse mallid ja kaebuste käsitlemine** → `/klient` (kasulik-müük plugin)
+- **Personaalne pöördumine prospektidele** → `/pöördumine` (kasulik-müük plugin)
+- **Arvustuste haldamine** → `/arvustus` käsk
+- **Külastaja teekond** → `/külastaja` käsk ja `/külastuskogemus`

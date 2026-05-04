@@ -38,13 +38,13 @@ Marketing content, campaigns, pricing, and launch strategy.
 | Skill | What It Does |
 |-------|-------------|
 | /kontekst | Sets up marketing context (positioning, ICP, competitors, brand voice) |
-| /tekst | Marketing copy with 30+ psychology models — website, ads, blog posts, social media |
+| /tekst | Marketing copy with 25+ psychology models — website, ads, blog posts, social media |
 | /meilid | Email campaigns — welcome sequences, newsletters, follow-ups |
 | /seo | SEO audit and optimization |
 | /reklaam | Paid ads — Google, Meta, LinkedIn, TikTok campaign strategy |
 | /kampaania | Campaign planning — objectives, audience, channels, content calendar, KPIs |
 | /hind | Pricing strategy — value-based pricing, tier structure, freemium decisions |
-| /käivitus | Launch strategy — ORB framework, phased launches, momentum building |
+| /käivitus | Launch strategy — ORL framework (Owned/Rented/Borrowed channels), phased launches, momentum building |
 
 ### kasulik-müük (5 skills)
 Müük, kliendisuhtlus ja proaktiivne pöördumine.
@@ -98,6 +98,7 @@ Tourism-specific skills for hospitality and destination businesses.
 |------|--------|-----------|
 | `/alusta` | tööruum | Tark alguspunkt — seadistamine, parendamine või coaching |
 | `/agendid` | tööruum | AI assistendi loomine intervjuu ja skaneerimise kaudu |
+| `/ai-coach` | tööruum | AI coaching — õige skilli leidmine, töövoogude soovitused, promptimine |
 | `/töövood` | tööruum | Eelseadistatud mitmeskillsed töövood |
 | `/ülevaade` | tööruum | Iganädalane AI kasutuse ülevaade |
 | `/tabel` | tööruum | Exceli ja CSV failide analüüs |
@@ -118,6 +119,8 @@ Tourism-specific skills for hospitality and destination businesses.
 | `/plaan` | strateegia | Strateegilised plaanid |
 | `/aruanne` | strateegia | Aruanded ja ülevaated |
 | `/protsess` | strateegia | Protsesside dokumenteerimine |
+| `/kasv` | strateegia | Ärikasvu strateegiad — skaleerimine, uued turud, partnerlused |
+| `/konkurent` | strateegia | Konkurentsianalüüs ja positsioneerimine |
 | `/turism` | turism | Turismiettevõtte AI abiline |
 | `/hooaeg` | turism | Hooajaplaneerimine |
 | `/arvustus` | turism | Arvustustele vastamine |

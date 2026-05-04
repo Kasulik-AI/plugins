@@ -1,7 +1,7 @@
 {
   "name": "kasulik-tööruum",
-  "description": "AI töökeskkonna seadistamine, coachiminen, AI assistentide loomine ja pidev arendamine VKE-dele. Skills: /alusta, /agendid, /ai-coach, /töövood, /ülevaade, /tabel, /wordpress. Kasulik AI SMB Skills Collection.",
-  "version": "2.2.0",
+  "description": "AI töökeskkonna seadistamine, coaching, AI assistentide loomine ja pidev arendamine VKE-dele. Skills: /alusta, /agendid, /ai-coach, /töövood, /ülevaade, /tabel, /wordpress. Kasulik AI SMB Skills Collection.",
+  "version": "3.2.0",
   "author": {
     "name": "Kristo Peterson (Kasulik AI)",
     "email": "kristo@kasulik.ai"

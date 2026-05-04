@@ -1,17 +1,17 @@
 {
   "name": "kasulik-ai-plugins",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "owner": {
     "name": "Kasulik AI",
     "email": "kristo@kasulik.ai"
   },
-  "description": "Eestikeelsed AI pluginad väike- ja keskmistele ettevõtetele. 24 skilli 5 pluginas: AI tööruum, turundus, müük, strateegia, turism. Kõik skillid töötavad /käskudena Coworkis. Ehitatud Kasulik AI poolt (kasulik.ai).",
+  "description": "Eestikeelsed AI pluginad väike- ja keskmistele ettevõtetele. 34 skilli 5 pluginas: AI tööruum, turundus, müük, strateegia, turism. Kõik skillid töötavad /käskudena Coworkis ja Claude Code'is. Ehitatud Kasulik AI poolt (kasulik.ai).",
   "plugins": [
     {
       "name": "kasulik-tööruum",
       "source": "./kasulik-tööruum",
-      "description": "7 skilli: AI töökeskkonna seadistamine, coaching, assistentide loomine, töövoo retseptid, iganädalane ülevaade, Exceli analüüs, WordPress ühendamine.",
-      "version": "3.1.0",
+      "description": "7 skilli: AI töökeskkonna seadistamine, AI assistentide loomine, coaching, töövoo retseptid, iganädalane ülevaade, Exceli analüüs, WordPress ühendamine. Skills: /alusta, /agendid, /ai-coach, /töövood, /ülevaade, /tabel, /wordpress.",
+      "version": "3.2.0",
       "author": {
         "name": "Kristo Peterson (Kasulik AI)",
         "email": "kristo@kasulik.ai"
@@ -20,8 +20,8 @@
     {
       "name": "kasulik-turundus",
       "source": "./kasulik-turundus",
-      "description": "3 skilli turunduseks — turunduskopii ja sisuloome, meilikampaaniad, turunduskonteksti seadistamine.",
-      "version": "3.1.0",
+      "description": "8 skilli turunduseks: turunduskontekst, copywriting (25+ psühholoogiamudeliga), e-posti kampaaniad, SEO, tasulised reklaamid, kampaaniaplaneerimine, hinnastrateegia ja käivitusstrateegiad. Skills: /kontekst, /tekst, /meilid, /seo, /reklaam, /kampaania, /hind, /käivitus.",
+      "version": "3.2.0",
       "author": {
         "name": "Kristo Peterson (Kasulik AI)",
         "email": "kristo@kasulik.ai"
@@ -30,8 +30,8 @@
     {
       "name": "kasulik-müük",
       "source": "./kasulik-müük",
-      "description": "2 skilli müügiks — kõnekokkuvõtted ja järeltegevused, kliendisuhtlus ja kaebuste käsitlemine.",
-      "version": "3.1.0",
+      "description": "5 skilli müügiks ja kliendisuhtluseks: kõnekokkuvõtted ja järeltegevused, kliendisuhtlus, müügikõne ettevalmistus, personaalne pöördumine ja prospektimine. Skills: /kõnekokkuvõte, /klient, /ettevalmistus, /pöördumine, /prospekt.",
+      "version": "3.2.0",
       "author": {
         "name": "Kristo Peterson (Kasulik AI)",
         "email": "kristo@kasulik.ai"
@@ -40,8 +40,8 @@
     {
       "name": "kasulik-strateegia",
       "source": "./kasulik-strateegia",
-      "description": "3 skilli strateegiaks ja juhtimiseks — plaanid ja SWOT, aruanded ja ülevaated, protsesside dokumenteerimine ja optimeerimine.",
-      "version": "3.1.0",
+      "description": "5 skilli strateegiaks ja juhtimiseks: strateegilised plaanid ja SWOT, aruanded ja ülevaated, protsesside dokumenteerimine, ärikasvu strateegiad ja konkurentsianalüüs. Skills: /plaan, /aruanne, /protsess, /kasv, /konkurent.",
+      "version": "3.2.0",
       "author": {
         "name": "Kristo Peterson (Kasulik AI)",
         "email": "kristo@kasulik.ai"
@@ -50,8 +50,8 @@
     {
       "name": "kasulik-turism",
       "source": "./kasulik-turism",
-      "description": "9 skilli turismiettevõtetele — strateegia, turundus, müük, külastuskogemus, analüütika, hooajaplaneerimine, arvustused, klienditeekond.",
-      "version": "3.1.0",
+      "description": "9 skilli turismiettevõtetele: strateegia, turundus ja sisuloome, müük ja kliendisuhted, külastuskogemus, analüütika, hooajaplaneerimine, arvustuste haldus, klienditeekond. Skills: /turism, /strateegia, /turundus-sisu, /müük-kliendid, /külastuskogemus, /analüütika, /hooaeg, /arvustus, /külastaja.",
+      "version": "3.2.0",
       "author": {
         "name": "Kristo Peterson (Kasulik AI)",
         "email": "kristo@kasulik.ai"

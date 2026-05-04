@@ -3,8 +3,7 @@ name: ettevalmistus
 description: "Valmista ette müügikõneks — ettevõtte uurimine, osalejate taust, soovituslik päevakord ja avastusküsimused. Kasuta kui kasutaja mainib: kõne ettevalmistus, call prep, kohtumine, valmistumine, kõneks valmistumine, prep me, meeting prep, osalejad, kliendiga kohtumine, enne kõnet, müügikõne, sales call."
 ---
 
-# ettevalmistus
-**Müügikõneks valmistumine**
+# Müügikõne ettevalmistus
 
 ## Kuidas see töötab
 

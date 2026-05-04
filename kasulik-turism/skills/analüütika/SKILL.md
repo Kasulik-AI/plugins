@@ -186,9 +186,8 @@ Iga analüütika dokument sisaldab:
 
 ## Seotud oskused
 
-- **Strateegilised otsused andmete põhjal** → kasulik-ai-turism/strateegia
-- **Müügilehtri parendamine** → kasulik-ai-turism/müük-kliendid
-- **Veebilehe konversiooni optimeerimine** → kasulik-ai-marketing-sales/page-cro
-- **SEO tehniline audit** → kasulik-ai-marketing-sales/seo-audit
-- **Finantsaruandlus** → kasulik-ai-strategy-leadership/financial-statements
-- **Aruanded** → /aruanne käsk
+- **Strateegilised otsused andmete põhjal** → `/strateegia` (turism) või `/plaan` (kasulik-strateegia)
+- **Müügilehtri parendamine** → `/müük-kliendid` (turism)
+- **Konversiooni optimeerimine ja copywriting** → `/tekst` (kasulik-turundus plugin)
+- **SEO tehniline audit** → `/seo` (kasulik-turundus plugin)
+- **Finantsaruandlus** → `/aruanne` (kasulik-strateegia plugin)

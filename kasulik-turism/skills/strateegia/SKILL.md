@@ -116,8 +116,8 @@ Iga strateegiline dokument sisaldab:
 
 ## Seotud oskused
 
-- **Turunduse teostamiseks** → kasulik-ai-turism/turundus-sisu või kasulik-ai-marketing-sales plugin
-- **Müügistrateegia elluviimiseks** → kasulik-ai-turism/müük-kliendid
-- **Hooajaplaanid** → /hooaeg käsk
-- **Finantsplaneerimine** → kasulik-ai-strategy-leadership/financial-statements
-- **Aruandlus** → /aruanne käsk
+- **Turunduse teostamiseks** → `/turundus-sisu` või kasulik-turundus plugin (`/kontekst`, `/tekst`, `/kampaania`)
+- **Müügistrateegia elluviimiseks** → `/müük-kliendid` või kasulik-müük plugin
+- **Hooajaplaanid** → `/hooaeg` käsk
+- **Finantsplaneerimine ja aruandlus** → `/aruanne` (kasulik-strateegia plugin)
+- **Strateegilised plaanid** → `/plaan` (kasulik-strateegia plugin)

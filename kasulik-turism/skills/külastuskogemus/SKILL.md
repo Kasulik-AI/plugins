@@ -161,8 +161,8 @@ Motivaatorid tagasitulemiseks ja soovitamiseks:
 
 ## Seotud oskused
 
-- **Teenuste turundamine** → kasulik-ai-turism/turundus-sisu
-- **Kliendisuhete haldamine** → kasulik-ai-turism/müük-kliendid
-- **Arvustused** → /arvustus käsk
-- **Külastaja teekond** → /külastaja käsk
-- **Protsesside dokumenteerimine** → kasulik-ai-operations-support/process-doc
+- **Teenuste turundamine** → `/turundus-sisu`
+- **Kliendisuhete haldamine** → `/müük-kliendid`
+- **Arvustused** → `/arvustus` käsk
+- **Külastaja teekond** → `/külastaja` käsk
+- **Protsesside dokumenteerimine** → `/protsess` (kasulik-strateegia plugin)

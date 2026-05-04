@@ -1,7 +1,7 @@
 {
   "name": "kasulik-turundus",
-  "description": "Turunduse AI tööriistakast — turunduskontekst, copywriting (70+ psühholoogiamudeliga), e-posti kampaaniad, SEO, tasulised reklaamid, kampaaniaplaneerimine, hinnastrateegia ja käivitusstrateegiad. Skills: /kontekst, /tekst, /meilid, /seo, /reklaam, /kampaania, /hind, /käivitus. Part of the Kasulik AI SMB Skills Collection.",
-  "version": "2.2.0",
+  "description": "Turunduse AI tööriistakast — turunduskontekst, copywriting (25+ psühholoogiamudeliga), e-posti kampaaniad, SEO, tasulised reklaamid, kampaaniaplaneerimine, hinnastrateegia ja käivitusstrateegiad. Skills: /kontekst, /tekst, /meilid, /seo, /reklaam, /kampaania, /hind, /käivitus. Kasulik AI SMB Skills Collection.",
+  "version": "3.2.0",
   "author": {
     "name": "Kristo Peterson (Kasulik AI)",
     "email": "kristo@kasulik.ai"

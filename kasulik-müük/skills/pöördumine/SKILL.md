@@ -3,7 +3,7 @@ name: pöördumine
 description: "Uuri prospekti ja koosta personaalne pöördumine — e-kiri, LinkedIn sõnum, järelkontakt. Kasuta kui kasutaja mainib: outreach, pöördumine, kirjuta kiri, cold email, külm kiri, LinkedIn sõnum, müügikiri, kontakti pöördumine, draft outreach, reach out, write cold email, personaalne kiri, müügipöördumine, prospektile kirjutamine, esimene kontakt."
 ---
 
-# Personaalne müügipöördumine (Outreach)
+# Personaalne müügipöördumine
 
 ## Töövoog
 

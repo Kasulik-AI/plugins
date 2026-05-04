@@ -173,9 +173,9 @@ Iga sisutüüp sisaldab:
 
 ## Seotud oskused
 
-- **Turundusstrateegiate detailne planeerimine** → kasulik-ai-marketing-sales plugin
-- **E-posti automatiseerimise vood** → kasulik-ai-marketing-sales/email-sequence
-- **SEO tehniline audit** → kasulik-ai-marketing-sales/seo-audit
-- **Konversiooni optimeerimine** → kasulik-ai-marketing-sales/page-cro
-- **Brändi hääle defineerimine** → kasulik-ai-marketing-sales/brand-voice-enforcement
-- **Hooajaplaneerimine** → /hooaeg käsk
+- **Turundusstrateegiate detailne planeerimine** → `/kampaania` (kasulik-turundus plugin)
+- **E-posti automatiseerimise vood** → `/meilid` (kasulik-turundus plugin)
+- **SEO tehniline audit** → `/seo` (kasulik-turundus plugin)
+- **Tasulised reklaamid** → `/reklaam` (kasulik-turundus plugin)
+- **Brändi hääle defineerimine** → `/kontekst` (kasulik-turundus plugin)
+- **Hooajaplaneerimine** → `/hooaeg` käsk
