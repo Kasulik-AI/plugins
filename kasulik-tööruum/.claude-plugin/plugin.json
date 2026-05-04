@@ -1,6 +1,6 @@
 {
   "name": "kasulik-tööruum",
-  "description": "AI workspace setup, coaching, AI assistant creation, and continuous improvement for SMBs. Skills: /alusta, /agendid, /ai-coach, /workspace-setup, /weekly-review, /töövood, /ülevaade, /tabel, /wordpress. Part of the Kasulik AI SMB Skills Collection.",
+  "description": "AI töökeskkonna seadistamine, coachiminen, AI assistentide loomine ja pidev arendamine VKE-dele. Skills: /alusta, /agendid, /ai-coach, /töövood, /ülevaade, /tabel, /wordpress. Kasulik AI SMB Skills Collection.",
   "version": "2.2.0",
   "author": {
     "name": "Kristo Peterson (Kasulik AI)",

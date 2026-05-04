@@ -1,5 +1,5 @@
 ---
-name: outreach
+name: pöördumine
 description: "Uuri prospekti ja koosta personaalne pöördumine — e-kiri, LinkedIn sõnum, järelkontakt. Kasuta kui kasutaja mainib: outreach, pöördumine, kirjuta kiri, cold email, külm kiri, LinkedIn sõnum, müügikiri, kontakti pöördumine, draft outreach, reach out, write cold email, personaalne kiri, müügipöördumine, prospektile kirjutamine, esimene kontakt."
 ---
 
@@ -9,28 +9,28 @@ description: "Uuri prospekti ja koosta personaalne pöördumine — e-kiri, Link
 
 ```
 ┌─────────────────────────────────────────────┐
-│ SAMM 1: UURING (Research)                   │
+│ SAMM 1: UURING                              │
 │ • Prospekti äritausta uurimine              │
-│ • LinkedIn, ettevõtte veebisait, Crunchbase│
-│ • Otsing "XX äri + XXX teemad"              │
-│ • Samatööliste/partnerlite asukohtade leidmine │
+│ • LinkedIn, ettevõtte veebisait, Crunchbase │
+│ • Otsing valdkonna teemade järgi            │
+│ • Ühiste kontaktide ja sidemete leidmine    │
 │ • CRM andmed (kui saadaval)                 │
 └──────────────────┬──────────────────────────┘
                    │
 ┌──────────────────▼──────────────────────────┐
-│ SAMM 2: KIRJUTAMINE (Message Drafting)      │
-│ • Kontekstiga AIDA mudel (Attention,        │
-│   Interest, Desire, Action)                 │
-│ • Vaakumi-valitud mallid (Soojad/külmad)   │
-│ • Personaalse detaili kasutamine            │
-│ • 3-5 lauseline struktuur e-kirjadele       │
-│ • LinkedIn sõnumid 2-3 lausega (lühemad)   │
+│ SAMM 2: KIRJUTAMINE                         │
+│ • AIDA mudel kontekstiga (Tähelepanu,       │
+│   Huvi, Soov, Tegevus)                      │
+│ • Sobiv mall (soe/külm kontakt)             │
+│ • Personaalne detail igasse sõnumisse       │
+│ • 3–5 lauseline struktuur e-kirjadele       │
+│ • LinkedIn sõnumid 2–3 lausega (lühemad)   │
 └──────────────────┬──────────────────────────┘
                    │
 ┌──────────────────▼──────────────────────────┐
-│ SAMM 3: SAATMINE (Delivery)                 │
-│ • E-posti saatmise ühendamine (Gmail, etc.)│
-│ • LinkedIn sõnumi kopeerimise täpsus        │
+│ SAMM 3: SAATMINE                            │
+│ • E-posti saatmine (Gmail, Outlook jne)     │
+│ • LinkedIn sõnumi kopeerimine               │
 │ • Järelkontaktide ajastamine                │
 │ • Vastuste jälgimine ja logimine            │
 └─────────────────────────────────────────────┘
@@ -198,16 +198,16 @@ Edu,
 ### 5. PÄRAST ÜRITUST (Post-Event – konverents, webinar)
 
 ```
-Teemarida: Tore sinuga rääkida [ürituse nimi]
+Teemarida: Tore sinuga kohata [ürituse nimi]
 
 Tere [Nimi],
 
 Meeldis, kuidas sa rääkisid [spetsiifiline punkt] konverentsi paneelis. 
-Teie ärinägemus [millal] sobib tegelikkuga, mida me teeme.
+Sinu ärinägemus [teema kohta] sobib väga hästi sellega, mida meie teeme.
 
-Kui sa oled avatud, saatsime artikli [teemast] – kas seda arvustad?
+Kui oled avatud, jagasime artiklit [teemast] – äkki on kasulik?
 
-Chat soon,
+Edu,
 [Teie nimi]
 ```
 
@@ -249,9 +249,9 @@ Sel skillil on integratsioonid järgmistega:
 
 ---
 
-## Vaadaku ka
+## Vaata ka
 
-- `linkedin-profile-analysis` — detailne profiiliga tutvumine
-- `prospect-research` — süvaanalüüs ettevõtte kohta
-- `sales-follow-up-sequence` — jäljekaarte automatiseerimine
+- `/prospekt` — ettevõtte ja isiku süvaanalüüs enne pöördumist
+- `/ettevalmistus` — kõneks valmistumine pärast esimest kontakti
+- `/kõnekokkuvõte` — järeltegevuste ja kokkuvõtte koostamine pärast kõnet
 

@@ -30,7 +30,7 @@ täiendus ja uuendus on võimalus tähelepanu püüda ja oma publikut kaasata.
 │  ✓ Käivitusjärgne hoo hoidmine                                  │
 │  ✓ Edumõõdikud ja jälgimine                                     │
 ├─────────────────────────────────────────────────────────────────┤
-│  SUPERCHARGED (kui ühendad oma tööriistad)                       │
+│  TÕHUSTATUD (kui ühendad oma tööriistad)                         │
 │  + E-post: oodatejärjekorra ja käivitusmeili seeria             │
 │  + Sotsiaalmeedia: postituste ajastamine ja jälgimine           │
 │  + Analüütika: reaalajas tulemuste jälgimine                    │

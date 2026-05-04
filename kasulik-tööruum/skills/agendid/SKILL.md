@@ -170,7 +170,7 @@ Esita kasutajale:
 - Juhised: kuidas kasutada Claude Projects eksporti
 - "Järgmised sammud" soovitused:
   - Lisa rohkem infot memory/ kausta aja jooksul
-  - Kasuta /review käsku iganädalaseks ülevaateks
+  - Kasuta `/ülevaade` käsku iganädalaseks ülevaateks
   - Kasuta ai-coach skill'i, et leida õigeid skill'e ülesannete jaoks
 
 ## Oluline käitumisreeglid
@@ -196,7 +196,7 @@ Rollide valik põhineb:
 
 ## Seotud käsud ja oskused
 
-- **Workspace seadistamine** → kasulik-ai-workflows/workspace-setup
-- **AI coaching** → kasulik-ai-workflows/ai-coach
-- **Iganädalane ülevaade** → /review käsk
+- **Workspace seadistamine** → `/alusta`
+- **AI coaching** → `/ai-coach`
+- **Iganädalane ülevaade** → `/ülevaade`
 - **Turismispetsiifiline seadistus** → kasulik-ai-turism/strateegia

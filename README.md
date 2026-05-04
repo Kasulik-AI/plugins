@@ -47,14 +47,14 @@ Marketing content, campaigns, pricing, and launch strategy.
 | /käivitus | Launch strategy — ORB framework, phased launches, momentum building |
 
 ### kasulik-müük (5 skills)
-Sales, client communication, and proactive outreach.
+Müük, kliendisuhtlus ja proaktiivne pöördumine.
 
 | Skill | What It Does |
 |-------|-------------|
 | /kõnekokkuvõte | Call notes → action items, follow-up email, internal summary |
 | /klient | Client communication — inquiries, complaints, FAQ articles |
 | /ettevalmistus | Call prep — company research, attendee backgrounds, agenda, objections |
-| /outreach | Personalized outreach — research-first emails, LinkedIn, follow-up sequences |
+| /pöördumine | Personalized outreach — research-first emails, LinkedIn, follow-up sequences |
 | /prospekt | Account research — company intel, qualification signals, recommended approach |
 
 ### kasulik-strateegia (5 skills)
@@ -113,7 +113,7 @@ Tourism-specific skills for hospitality and destination businesses.
 | `/kõnekokkuvõte` | müük | Kõne kokkuvõte ja järeltegevused |
 | `/klient` | müük | Kliendikommunikatsioon |
 | `/ettevalmistus` | müük | Kõne ettevalmistus — uurimine, agenda, vastuväited |
-| `/outreach` | müük | Personaliseeritud pöördumine — e-post, LinkedIn |
+| `/pöördumine` | müük | Personaliseeritud pöördumine — e-post, LinkedIn |
 | `/prospekt` | müük | Ettevõtte/isiku uurimine — intel, kvalifitseerimine |
 | `/plaan` | strateegia | Strateegilised plaanid |
 | `/aruanne` | strateegia | Aruanded ja ülevaated |

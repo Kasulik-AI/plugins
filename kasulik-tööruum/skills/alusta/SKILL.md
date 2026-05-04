@@ -1,6 +1,6 @@
 ---
 name: alusta
-description: "Start here — set up your AI workspace or get coaching to improve it. Kasuta kui kasutaja kirjutab '/alusta' või mainib: set up workspace, new project, configure Claude, alusta, seadista, uus projekt, tööruumi seadistamine."
+description: "Alusta siit — seadista AI töökeskkond või paranda olemasolevat. Kasuta kui kasutaja kirjutab '/alusta' või mainib: alusta, seadista, uus projekt, tööruumi seadistamine, configure Claude, set up workspace, new project."
 ---
 
 # /alusta — AI Töökeskkonna Seadistamine

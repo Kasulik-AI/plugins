@@ -32,7 +32,7 @@ Seejärel kleebi oma märkmed, transkriptsioon või lae üles salvestus.
 │  ✓ Koosta kliendile suunatud järelkiri                          │
 │  ✓ Genereeri sisemine kokkuvõte meeskonnale                     │
 ├─────────────────────────────────────────────────────────────────┤
-│  SUPERCHARGED (kui ühendad oma tööriistad)                       │
+│  TÕHUSTATUD (kui ühendad oma tööriistad)                         │
 │  + Transkriptsioonid: tõmba salvestus automaatselt (Gong, Fireflies) │
 │  + CRM: uuenda võimalust, logi tegevust, loo ülesandeid        │
 │  + E-post: saada järelkiri otse mustandist                      │

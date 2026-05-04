@@ -25,7 +25,7 @@ Planeeri terviklikke turunduskampaaniaid eesmärkidest kuni sisukalendrini.
 │  ✓ Nädalane sisukalender koos tähtaegadega                      │
 │  ✓ Edumõõdikud ja KPI-d                                         │
 ├─────────────────────────────────────────────────────────────────┤
-│  SUPERCHARGED (kui ühendad oma tööriistad)                       │
+│  TÕHUSTATUD (kui ühendad oma tööriistad)                         │
 │  + Analüütika: varasemate kampaaniate tulemused baasliiniks     │
 │  + E-post: meilikampaaniate integreerimine                      │
 │  + Sotsiaalmeedia: postituste ajastamine                        │

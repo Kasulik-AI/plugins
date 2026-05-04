@@ -25,7 +25,7 @@ Aita kujundada hinnastrateegia, mis kajastab väärtust, toetab kasvu ja vastab 
 │  ✓ Konkurentide hinnavõrdlus                                    │
 │  ✓ Hinnatõusu strateegia                                        │
 ├─────────────────────────────────────────────────────────────────┤
-│  SUPERCHARGED (kui ühendad oma tööriistad)                       │
+│  TÕHUSTATUD (kui ühendad oma tööriistad)                         │
 │  + Analüütika: konversioonimäärad, churn, ARPU andmed           │
 │  + CRM: klientide segmendid ja maksekäitumine                   │
 │  + Veeb: konkurentide hinnainfo kraapimine                      │

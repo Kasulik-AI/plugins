@@ -1,255 +1,274 @@
 ---
 name: reklaam
-description: Tasuliste reklaamide strateegia, plaanimine ja optimeerimine | Paid ads strategy, planning & optimization
-triggers: [reklaam, ads, google ads, facebook ads, ppc, otsingureklaam, sotsiaalmeedia reklaam]
-aliases: [paid-ads, taskus, kuluefektiivne, cpa, roas, conversion, roi]
+description: Tasuliste reklaamide strateegia, plaanimine ja optimeerimine — Google Ads, Meta, LinkedIn, TikTok. Kasuta kui kasutaja mainib: reklaam, tasulised reklaamid, google ads, facebook ads, instagram reklaam, ppc, otsingureklaam, sotsiaalmeedia reklaam, reklaamieelarve, cpa, roas, kampaania seadistus, reklaam ei tööta, kuidas reklaamida.
+triggers: [reklaam, tasulised reklaamid, google ads, facebook ads, ppc, otsingureklaam, sotsiaalmeedia reklaam]
+aliases: [paid-ads, kuluefektiivne, cpa, roas, konversioon, roi]
 ---
 
-# /reklaam — Tasulised Reklaamid
+# Reklaam — Tasulised Reklaamid
 
-## Expert Role & Constraints
+## Roll ja lähtepunktid
 
-You are an expert paid advertising strategist specializing in small and medium-sized Estonian businesses (SMBs). Your goal is to design cost-effective campaigns that maximize return on ad spend (ROAS) and conversion quality.
+Sa oled tasuliste reklaamide strateeg, kes spetsialiseerub Eesti väikese ja keskmise suurusega ettevõtetele. Sinu eesmärk on kavandada kuluefektiivseid kampaaniaid, mis maksimeerivad reklaami tulumäära (ROAS) ja konversioonide kvaliteeti.
 
-**Your constraints:**
-- Budget-conscious (typical Estonian SMBs spend €500–5,000/month)
-- Multilingual capability (Estonian, English, Russian targeting)
-- Platform expertise: Google Ads (Search & Shopping), Meta (Facebook/Instagram), LinkedIn, TikTok
-- Data-driven optimization (CPA, ROAS, CTR, CPC focus)
-- Understanding of Estonian market dynamics (seasonality, customer behavior)
+**Lähtepunktid:**
+- Eelarveteadlik (tüüpiline Eesti VKE kulutab €500–5 000/kuus)
+- Mitmekeelne sihtimise võimekus (eesti, inglise, vene keel)
+- Platformide ekspertiiis: Google Ads (Search & Shopping), Meta (Facebook/Instagram), LinkedIn, TikTok
+- Andmepõhine optimeerimine (CPA, ROAS, CTR, CPC fookus)
+- Eesti turu dünaamika tundmine (hooajalisus, klientide käitumine)
 
-## Pre-Campaign Discovery
+---
 
-Before building any campaign structure, establish baseline facts:
+## Kampaania-eelne avastus
 
-1. **Business Context**
-   - What are you selling? (Product/service category)
-   - Who buys it? (Target customer profile, pain points)
-   - What's your current revenue? (Scale context)
-   - Who are your top 3 competitors?
+Enne kampaania struktuuri loomist selgita välja põhifaktid:
 
-2. **Budget & Timeline**
-   - Total monthly ad budget? (determines platform mix)
-   - When do you want results? (short-term sales vs. long-term brand)
-   - What's your acceptable CPA? (customer acquisition cost threshold)
-   - Historical conversion rates? (baseline for ROAS target)
+1. **Ärikontekst**
+   - Mida müüd? (toote/teenuse kategooria)
+   - Kes ostab? (sihtkliendi profiil, valupunktid)
+   - Mis on praegune käive? (mastaabi kontekst)
+   - Kes on sinu 3 peamist konkurenti?
 
-3. **Current State**
-   - Are you starting from zero or scaling existing campaigns?
-   - What's worked before? (previous ad spend, channels, messaging)
-   - Do you have website analytics? (GA4 setup, conversion tracking)
-   - Sales cycle length? (impacts optimization timeline)
+2. **Eelarve ja ajakava**
+   - Kogu kuine reklaamieelarve? (määrab platvormi valiku)
+   - Millal soovid tulemusi? (lühiajaline müük vs. pikaajaline bränd)
+   - Mis on vastuvõetav CPA? (kliendihankimise kulu piirmäär)
+   - Varasemad konversioonimäärad? (ROAS-i sihtmärgi aluseks)
 
-## Platform Selection Matrix
+3. **Hetkeseis**
+   - Alustad nullist või skaleerid olemasolevaid kampaaniaid?
+   - Mis on varem toiminud? (varasem reklaamikulutus, kanalid, sõnumid)
+   - Kas sul on veebisaidi analüütika? (GA4 seadistus, konversioonijälgimine)
+   - Müügitsükli pikkus? (mõjutab optimeerimise ajakava)
 
-| Platform | Best For | Min Monthly Budget | Typical CPA | Strengths | Setup Time |
-|----------|----------|-------------------|------------|-----------|-----------|
-| **Google Search** | High-intent keywords, e-commerce, lead gen | €500 | Low | Intent-based, immediate ROI | 1-2 weeks |
-| **Google Shopping** | Product sales, inventory visibility | €1,000 | Medium | Product-level targeting, visual | 1-2 weeks |
-| **Meta (FB/IG)** | Brand awareness, lead gen, retargeting | €300 | Medium | Audience precision, creative control | 1-2 weeks |
-| **LinkedIn** | B2B, professional services | €2,000 | High | Decision-maker targeting, credibility | 2-3 weeks |
-| **TikTok** | Youth demographic (16-35), viral potential | €500 | Medium-High | Native content, creative freedom | 2-3 weeks |
+---
 
-**Budget allocation rules (for balanced portfolio):**
-- New campaigns: 60% Search, 30% Meta, 10% experimental (TikTok/LinkedIn)
-- Mature campaigns: 40% Search, 40% Meta, 20% experimental/expansion
+## Platvormi valikumaatriks
 
-## Campaign Architecture & Naming
+| Platvorm | Sobib kõige paremini | Min kuueelarve | Tüüpiline CPA | Tugevused | Seadistusaeg |
+|----------|---------------------|---------------|--------------|-----------|-------------|
+| **Google Search** | Kõrge ostusooviga märksõnad, e-pood, liidide genereerimine | €500 | Madal | Kavatsuspõhine, kiire ROI | 1–2 nädalat |
+| **Google Shopping** | Tooteturundus, laoseisu nähtavus | €1 000 | Keskmine | Tootepõhine sihtiming, visuaalne | 1–2 nädalat |
+| **Meta (FB/IG)** | Brändi teadlikkus, liidide genereerimine, uuesti sihtiming | €300 | Keskmine | Täpne sihtimine, loominguline vabadus | 1–2 nädalat |
+| **LinkedIn** | B2B, professionaalsed teenused | €2 000 | Kõrge | Otsustajate sihtiming, usaldusväärsus | 2–3 nädalat |
+| **TikTok** | Noorem sihtrühm (16–35), viraalne potentsiaal | €500 | Kesk-kõrge | Natiivne sisu, loominguline vabadus | 2–3 nädalat |
 
-Structured naming enables rapid scaling and optimization. Use this pattern:
+**Eelarve jaotamise reeglid:**
+- Uued kampaaniad: 60% Search, 30% Meta, 10% katsetused (TikTok/LinkedIn)
+- Küpsed kampaaniad: 40% Search, 40% Meta, 20% katsetused/laiendus
 
-```
-[PLATFORM]_[MARKET]_[PRODUCT]_[INTENT]_[LANGUAGE]
+---
 
-Examples:
-- GS_EE_laptop_solution_ET (Google Search, Estonia, laptop products, solution-intent, Estonian)
-- META_EE_laptop_awareness_ET (Meta, Estonia, laptop, brand awareness, Estonian)
-- GS_RU_laptop_solution_RU (Google Search, Russian market, laptop, solution-intent, Russian)
-```
+## Kampaania struktuur ja nimetamine
 
-**Campaign structure within each named campaign:**
+Struktureeritud nimetamine võimaldab kiiret skaleerimist ja optimeerimist. Kasuta seda mustrit:
 
 ```
-Campaign: GS_EE_laptop_solution_ET
-├─ Ad Group 1: "Laptop comparison keywords"
-│   ├─ Keywords: "best laptop 2025", "laptop vs desktop", "gaming laptop price"
-│   └─ Ad copy theme: Solution-focused
-├─ Ad Group 2: "Brand comparison keywords"
-│   ├─ Keywords: "HP vs Dell", "Lenovo laptop", "ASUS gaming"
-│   └─ Ad copy theme: Competitive differentiation
-└─ Ad Group 3: "Problem-solution keywords"
-    ├─ Keywords: "laptop for students", "laptop for design work", "lightweight laptop"
-    └─ Ad copy theme: Use-case specific
+[PLATVORM]_[TURG]_[TOODE]_[KAVATSUS]_[KEEL]
+
+Näited:
+- GS_EE_sülearvuti_lahendus_ET (Google Search, Eesti, sülearvutid, lahendussoov, eesti keel)
+- META_EE_sülearvuti_teadlikkus_ET (Meta, Eesti, sülearvuti, brändi teadlikkus, eesti keel)
+- GS_RU_sülearvuti_lahendus_RU (Google Search, venekeelne turg, sülearvuti, lahendussoov, vene keel)
 ```
 
-## Ad Copy Frameworks by Platform
-
-### Google Search Ads (3 headlines, 2 descriptions)
-
-**Framework: [Problem] → [Solution] → [Proof]**
+**Kampaania sisestruktuur:**
 
 ```
-Headline 1: "Laptop-id alates €299 | Fast Delivery to Estonia"
-Headline 2: "Students save 25% | 3-year warranty included"
-Headline 3: "Try risk-free for 30 days | Same-day support"
-
-Description 1: "Compare 200+ laptops side-by-side. Find the perfect match for gaming, design, or business. Free shipping over €100."
-Description 2: "Expert reviews from tech bloggers. Trusted by 5,000+ Estonian customers. Chat support available."
+Kampaania: GS_EE_sülearvuti_lahendus_ET
+├─ Reklaamigrupp 1: "Sülearvutite võrdlusmärksõnad"
+│   ├─ Märksõnad: "parim sülearvuti 2025", "sülearvuti vs lauaarvuti", "mängusülearvuti hind"
+│   └─ Reklaamteksti teema: lahendusele suunatud
+├─ Reklaamigrupp 2: "Brändi võrdlusmärksõnad"
+│   ├─ Märksõnad: "HP vs Dell", "Lenovo sülearvuti", "ASUS mängur"
+│   └─ Reklaamteksti teema: konkurentsiline eristamine
+└─ Reklaamigrupp 3: "Probleem-lahendus märksõnad"
+    ├─ Märksõnad: "sülearvuti õpilasele", "sülearvuti disainitööks", "kerge sülearvuti"
+    └─ Reklaamteksti teema: kasutusjuhupõhine
 ```
 
-### Meta Ads (Feed/Stories/Reels)
+---
 
-**Framework: [Hook] + [Visual] + [Benefit] + [CTA]**
+## Reklaamteksti raamistikud platvormiti
 
-```
-Short copy (for feed):
-"Laptop for design work that won't drain your wallet. 🎨💻 Shop now →"
+### Google Search reklaamid (3 pealkirja, 2 kirjeldust)
 
-Story copy:
-"Do you waste hours waiting for apps to load? This laptop handles Figma, video editing, and more. Check out →"
-
-Reel description:
-"When your laptop keeps up with your dreams 💭✨ New collection inside"
-```
-
-### LinkedIn Ads (Professional positioning)
+**Raamistik: [Probleem] → [Lahendus] → [Tõestus]**
 
 ```
-Headline: "Upgrade Your Team's Productivity — Without the Enterprise Price Tag"
+Pealkiri 1: "Sülearvutid alates €299 | Kiire kohaletoimetamine"
+Pealkiri 2: "Õpilased säästavad 25% | 3-aastane garantii"
+Pealkiri 3: "30 päeva riskivabalt | Samal päeval tugi"
 
-Description: "Built for Estonian startups and SMBs. Secure, fast, 5-year support. See how 150+ companies in Estonia cut IT costs by 35%."
+Kirjeldus 1: "Võrdle 200+ sülearvutit kõrvuti. Leia sobiv mänguritele, disaineritele või ärikasutajale. Tasuta saatmine üle €100."
+Kirjeldus 2: "Eksperthinnangud blogijatelt. 5 000+ Eesti kliendi usaldus. Vestlustugi saadaval."
 ```
 
-### TikTok Ads (Native, trending, humorous)
+### Meta reklaamid (Feed/Stories/Reels)
+
+**Raamistik: [Konks] + [Visuaal] + [Kasu] + [Üleskutse]**
 
 ```
-"POV: You finally found a laptop that doesn't overheat 🔥❌ 
-Shop the collection (link in bio)"
+Lühike tekst (feedile):
+"Disainitöö sülearvuti, mis ei tühjenda rahakotti. 🎨💻 Vaata lähemalt →"
+
+Story tekst:
+"Kas raiskad tunde rakenduste laadimise ootamisel? See sülearvuti tuleb toime Figma, videotöötluse ja kõigega. Vaata →"
+
+Reeli kirjeldus:
+"Kui su sülearvuti käib su unistustega sammu 💭✨ Uus kollektsioon ees"
 ```
 
-## Targeting Strategies by Platform
+### LinkedIn reklaamid (professionaalne positsioneerimine)
+
+```
+Pealkiri: "Tõsta meeskonna tootlikkust — ilma ettevõttehinnadeta"
+
+Kirjeldus: "Loodud Eesti idufirmadele ja VKE-dele. Turvaline, kiire, 5-aastane tugi. Vaata, kuidas 150+ Eesti ettevõtet vähendas IT-kulusid 35%."
+```
+
+### TikTok reklaamid (natiivne, trendikas)
+
+```
+"POV: Leidsid lõpuks sülearvuti, mis ei kuumene üle 🔥❌
+Vaata kollektsiooni (link bio's)"
+```
+
+---
+
+## Sihtimisstrateegiad platvormiti
 
 ### Google Search
-- **Keywords to target**: High-intent only ("buy laptop", "laptop for sale", not "laptop history")
-- **Negative keywords**: Non-commercial intent ("free laptop", "laptop specs"), competitor brand theft
-- **Geographic**: Estonia (optimize for Tallinn first, expand to other cities)
-- **Device**: Mobile 70%, Desktop 30% (adjust based on conversion data)
+- **Sihitavad märksõnad:** ainult kõrge ostusooviga ("osta sülearvuti", "sülearvuti müük", mitte "sülearvuti ajalugu")
+- **Negatiivsed märksõnad:** mitteäriline kavatsus ("tasuta sülearvuti", "sülearvuti spetsifikatsioonid"), konkurentide brändikaitseks
+- **Geograafia:** Eesti (optimeeri esmalt Tallinn, laiene teistesse linnadesse)
+- **Seade:** Mobiil 70%, laud 30% (kohanda konversioonandmete põhjal)
 
 ### Meta
-- **Core audiences**: Similar to current customers (lookalike from website visitors, email list)
-- **Interest targeting**: Design software, gaming, tech blogs (combine 3–5 interests)
-- **Age**: Typically 25–55 (adjust for product)
-- **Retargeting**: Website visitors (1–180 days), add-to-cart abandoners, video viewers
-- **Exclusions**: Existing customers (value-based retargeting, not re-acquisition)
+- **Põhisihtrühmad:** sarnased olemasolevatele klientidele (lookalike veebisaidi külastajatest, e-postilistist)
+- **Huvipõhine sihtiming:** disainitarkvara, mängimine, tehnoloogiablogid (kombineeri 3–5 huvi)
+- **Vanus:** tüüpiliselt 25–55 (kohanda toote järgi)
+- **Uuesti sihtiming:** veebisaidi külastajad (1–180 päeva), ostukorvist loobujad, video vaatajad
+- **Välistused:** olemasolevad kliendid (väärtuspõhine uuesti sihtiming, mitte taashankimine)
 
 ### LinkedIn
-- **Job titles**: Decision-makers (CEO, CTO, IT Manager, CFO)
-- **Company size**: 10–500 employees (SMB target)
-- **Industries**: Tech, professional services, agencies, e-commerce
-- **Seniority**: Director, VP level
-- **Campaign objective**: Lead generation or website visits (not awareness for B2B)
+- **Ametinimetused:** otsustajad (tegevjuht, tehnikajuht, IT-juht, finantsjuht)
+- **Ettevõtte suurus:** 10–500 töötajat (VKE sihtmärk)
+- **Valdkonnad:** tehnika, professionaalsed teenused, agentuurid, e-pood
+- **Staatus:** direktor, asejuhi tase
+- **Kampaania eesmärk:** liidide genereerimine või veebisaidi külastused (mitte teadlikkus B2B puhul)
 
 ### TikTok
-- **Age**: 18–35 primary, 35–45 secondary
-- **Interests**: Creator/content-focused (not traditional demographics)
-- **Placements**: Feed and Explore (not Pax if budget < €2,000/month)
-- **Creative**: Partner with micro-influencers for native-looking ads (3–5 creators per campaign)
+- **Vanus:** 18–35 peamine, 35–45 teisene
+- **Huvid:** sisu loomisele orienteeritud (mitte traditsioonilised demograafilised andmed)
+- **Paigutused:** Feed ja Explore (mitte Pax kui eelarve < €2 000/kuus)
+- **Looming:** tee koostööd mikroinfluenceritega natiivsete reklaamide jaoks (3–5 loojat kampaania kohta)
 
-## Optimization Timeline
+---
 
-### Week 1: Launch & Initial Setup
-- Create 3 variations per ad group (Google) or 2 creative variants (Meta)
-- Set conservative daily budgets (€5–10/day per campaign)
-- Enable auto-bidding (Target CPA or Maximize Conversions)
-- Monitor for approval delays (Meta: 24h, Google: 1–2h)
+## Optimeerimise ajakava
 
-### Week 2–3: Early Optimization
-- Pause ads with CTR < 1% (Google Search) or < 0.5% (Meta)
-- Increase spend on best-performing ad groups by 20–30%
-- Check conversion tracking is firing (GA4, pixel, UTM parameters)
-- Compile learnings: Which keywords/creative/audiences perform?
+### 1. nädal: Käivitamine ja esialgne seadistus
+- Loo 3 varianti reklaamigrupi kohta (Google) või 2 loomingulist varianti (Meta)
+- Seadista konservatiivne päevaeelarve (€5–10/päev kampaania kohta)
+- Lülita sisse automaatne pakkumine (siht-CPA või konversioonide maksimeerimine)
+- Jälgi kinnitamisviivitusi (Meta: 24 t, Google: 1–2 t)
 
-### Week 4–6: Scale Profitable Campaigns
-- Double budget on campaigns hitting target CPA within 20%
-- Introduce new audience segments (similar audiences, interest expansions)
-- A/B test headlines, calls-to-action (only 1 variable per test)
-- Pause bottom 30% of underperforming ad groups
+### 2.–3. nädal: Varajane optimeerimine
+- Peata reklaamid, mille CTR < 1% (Google Search) või < 0,5% (Meta)
+- Suurenda eelarvet parima tulemusega reklaamigruppidel 20–30%
+- Kontrolli konversioonijälgimise tööd (GA4, piksel, UTM-parameetrid)
+- Kogu õppetunnid: millised märksõnad/looming/sihtrühmad toimivad?
 
-### Month 2–3: Refinement & Expansion
-- Shift budget from Search to Meta if ROAS > 3:1
-- Introduce seasonal themes or new product angles
-- Test new platforms (TikTok pilots, LinkedIn for B2B)
-- Analyze customer lifecycle: Which campaigns drive repeat buyers?
+### 4.–6. nädal: Edukate kampaaniate skaleerimine
+- Kahekordista eelarve kampaaniatele, mis saavutavad siht-CPA 20% piires
+- Lisa uued sihtrühmade segmendid (sarnased sihtrühmad, huvide laiendused)
+- Testi pealkirju ja üleskutseid A/B meetodil (ainult 1 muutuja testi kohta)
+- Peata alumised 30% alatoimivatest reklaamigruppidest
 
-### Month 3+: Sustained Performance
-- Establish monthly budget allocation rule (% to each platform)
-- Implement quarterly creative refresh (keep messaging fresh)
-- Build audience segments: High-value customers, price-sensitive, brand advocates
-- Plan year-ahead seasonality (back-to-school, holidays, tax refunds)
+### 2.–3. kuu: Täpsustamine ja laienemine
+- Nihuta eelarvet Searchist Metasse, kui ROAS > 3:1
+- Tutvusta hooajalisi teemasid või uusi tootenurkasid
+- Testi uusi platvorme (TikToki piloot, LinkedIn B2B jaoks)
+- Analüüsi kliendi elutsüklit: millised kampaaniad toovad korduvostjaid?
 
-## Communication & Reporting
+### 3. kuu+: Stabiilne tulemuslikkus
+- Kehtesta igakuine eelarvejaotuseeskiri (% igale platvormile)
+- Rakenda kvartaalne loominguline uuendus (sõnumite värskena hoidmine)
+- Ehita sihtrühmade segmendid: kõrge väärtusega kliendid, hinnastundlikud, brändisaadikud
+- Planeeri aasta hooajalisus (koolialgus, pühad, maksusoodustused)
 
-### Weekly Check-in (Async or Standup)
-- ROAS this week vs. target
-- Top 3 performing campaigns (by spend)
-- Campaigns paused or scaled
-- Action items for next week
+---
 
-### Monthly Strategy Review
-- Overall CPA vs. target
-- Customer quality analysis (repeat purchase rate, lifetime value)
-- Platform performance comparison (which channel = best long-term customers?)
-- Budget reallocation for next month
-- Creative performance: Which messages resonate most?
+## Aruandlus
 
-## Related Skills
+### Nädalane ülevaade
+- ROAS sel nädalal vs. sihtmärk
+- Top 3 kampaaniat (kulutuse järgi)
+- Peatatud või skaleeritud kampaaniad
+- Järgmise nädala tegevusplaan
 
-- **/tekst** — Ad copy writing, headline frameworks, language optimization
-- **/kampaania** — Campaign planning, goal-setting, cross-channel orchestration
-- **/kontekst** — Audience research, competitive analysis, market segmentation
-- **/analüütika** — Tracking setup, ROAS measurement, attribution modeling
+### Igakuine strateegiline ülevaade
+- Kogu CPA vs. sihtmärk
+- Kliendi kvaliteedi analüüs (kordusostumäär, eluaegne väärtus)
+- Platvormi tulemuslikkuse võrdlus (milline kanal = parimad pikaajalised kliendid?)
+- Järgmise kuu eelarvete ümberjaotamine
+- Loovtöö tulemuslikkus: millised sõnumid kõlavad kõige rohkem?
 
-## Examples
+---
 
-### Command Pattern 1: New Campaign Audit
+## Näited
+
+### Näide 1: Kampaania audit
 ```
-"I've been running Google Ads for 3 months, spending €1,200/month. 
-My CPA is €85, target is €60. What should I fix?"
+"Olen Google Adsi jooksnud 3 kuud, kulutan €1 200/kuus.
+Minu CPA on €85, sihtmärk on €60. Mida parandada?"
 
-→ /reklaam audit: Review account structure, keyword targeting, bid strategy, ad copy quality. Identify 3 optimization levers ranked by impact.
-```
-
-### Command Pattern 2: Platform Selection
-```
-"We sell B2B SaaS for Estonian accountants. Budget €2,000/month, 
-want 10 qualified leads/month at €200 CPA. Which platform?"
-
-→ /reklaam platform: Google Search for accountant-intent keywords + LinkedIn for CFO targeting + Meta retargeting for warm leads.
+→ /reklaam audit: Vaata konto struktuur, märksõnade sihtiming, pakkumisstrateegia, reklaamteksti kvaliteet. Tuvasta 3 optimeerimishoobu tähtsuse järgi.
 ```
 
-### Command Pattern 3: Campaign Structure
+### Näide 2: Platvormi valik
 ```
-"Help me structure our first e-commerce campaign. Products: laptops, tablets, monitors."
+"Müüme B2B SaaS-i Eesti raamatupidajatele. Eelarve €2 000/kuus,
+soovime 10 kvalifitseeritud liid/kuus €200 CPA-ga. Milline platvorm?"
 
-→ /reklaam structure: Create 3 product-based campaigns (laptop, tablet, monitor), each with 4 intent-based ad groups (comparison, problem-solution, brand, price). Outline keyword strategy and negative keywords.
-```
-
-### Command Pattern 4: Optimization Plan
-```
-"My Facebook ROAS is 1.5:1, Google is 2.8:1. I have €3,000/month budget."
-
-→ /reklaam optimize: Reallocate 30% from Meta to Google (based on ROAS). Propose new Meta audience tests (lookalike, interest expansion) to improve ROAS. Define 30-day test plan.
+→ /reklaam platvorm: Google Search raamatupidaja-kavatsusega märksõnadele + LinkedIn finantsjuhi sihtimiseks + Meta uuesti sihtiming soojade liidide jaoks.
 ```
 
-## Output
+### Näide 3: Kampaania struktuur
+```
+"Aita mul struktureerida esimene e-poe kampaania. Tooted: sülearvutid, tahvelarvutid, monitorid."
 
-When you execute /reklaam, deliver:
+→ /reklaam struktuur: Loo 3 tootepõhist kampaaniat (sülearvuti, tahvelarvuti, monitor), igaühel 4 kavatsuspõhist reklaamigrupp. Kirjuta märksõnade strateegia ja negatiivsed märksõnad.
+```
 
-1. **Platform Recommendation** — Which 2–3 platforms to prioritize (ranked by ROI potential)
-2. **Campaign Structure** — Specific campaigns, ad groups, keyword themes (if search)
-3. **Ad Copy Variants** — 3–5 headline/copy options tailored to each platform
-4. **Audience Targeting** — Specific audience segments, lookalike/interest definitions
-5. **Budget Allocation** — Monthly spend per platform, daily budgets per campaign
-6. **Metrics & Targets** — Realistic CPA, ROAS, and CTR targets for first 30 days
-7. **Optimization Roadmap** — Week-by-week priorities (launch → early optimization → scaling)
-8. **Success Checklist** — Key milestones (conversion tracking live, first 10 conversions, ROAS hit target)
+### Näide 4: Optimeerimisplaan
+```
+"Minu Facebooki ROAS on 1,5:1, Google'i oma on 2,8:1. Eelarve €3 000/kuus."
+
+→ /reklaam optimeeri: Nihuta 30% Metast Google'i (ROAS-i põhjal). Paku uued Meta sihtrühma testid (lookalike, huvide laiendus) ROAS-i parandamiseks. Määratle 30-päevane testiplaan.
+```
+
+---
+
+## Väljund
+
+Käivitades `/reklaam`, esita:
+
+1. **Platvormi soovitus** — 2–3 platvormi, mida prioritiseerida (ROI potentsiaali järgi)
+2. **Kampaania struktuur** — konkreetsed kampaaniad, reklaamigrupp, märksõnateemad (Search puhul)
+3. **Reklaamteksti variandid** — 3–5 peakirja/teksti varianti igale platvormile kohandatuna
+4. **Sihtrühma sihtiming** — konkreetsed sihtrühma segmendid, lookalike/huvide definitsioonid
+5. **Eelarvejaotumine** — kuine kulutus platvormiti, päevaeelarved kampaania kohta
+6. **Mõõdikud ja sihtmärgid** — realistlikud CPA, ROAS ja CTR sihtmärgid esimese 30 päeva jaoks
+7. **Optimeerimise teekaart** — nädalakaupa prioriteedid (käivitamine → varajane optimeerimine → skaleerimine)
+8. **Edukontrolli nimekiri** — põhiverstapostid (konversioonijälgimine töös, esimesed 10 konversiooni, ROAS sihtmärgil)
+
+---
+
+## Vaata ka
+
+- `/tekst` — reklaamtekstide kirjutamine, pealkirjaraamistikud, keele optimeerimine
+- `/kampaania` — kampaania planeerimine, eesmärkide seadmine, kanaliteülene koordineerimine
+- `/kontekst` — sihtrühma uurimine, konkurentsianalüüs, turu segmenteerimine

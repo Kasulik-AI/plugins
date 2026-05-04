@@ -54,7 +54,7 @@ Pre-built multi-skill workflows for common SMB tasks. Present the relevant recip
 **Time: 1-2 hours**
 1. `product-marketing-context` — Clarify your value prop and differentiators
 2. `account-research` — Research target accounts
-3. `draft-outreach` — Write personalized emails per prospect
+3. `/pöördumine` — Write personalized emails per prospect
 4. `copy-editing` — Polish the sequences
 5. `brand-voice-enforcement` — Ensure brand consistency
 

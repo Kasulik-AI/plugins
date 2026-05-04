@@ -1,6 +1,6 @@
 {
   "name": "kasulik-müük",
-  "description": "Müügi ja kliendisuhtluse AI tööriistakast — kõne kokkuvõtted, kliendikommunikatsioon, kõne ettevalmistus, outreach ja prospektimine. Skills: /kõnekokkuvõte, /klient, /ettevalmistus, /outreach, /prospekt. Part of the Kasulik AI SMB Skills Collection.",
+  "description": "Müügi ja kliendisuhtluse AI tööriistakast — kõne kokkuvõtted, kliendikommunikatsioon, kõne ettevalmistus, pöördumine ja prospektimine. Skills: /kõnekokkuvõte, /klient, /ettevalmistus, /pöördumine, /prospekt. Kasulik AI SMB Skills Collection.",
   "version": "2.2.0",
   "author": {
     "name": "Kristo Peterson (Kasulik AI)",

@@ -3,21 +3,23 @@ name: prospekt
 description: "Uuri ettevõtet või isikut ja saa müügiinfot — veebiotsing, ettevõtteprofiil, võtmeisikud, värsked uudised, kvalifitseerimissignaalid. Kasuta kui kasutaja mainib: prospekt, ettevõtte uuring, research, uuri ettevõtet, look up, intel, kes on, ettevõtte taust, account research, prospektimine, müügi-intel, kontakti uurimine, firma info, otsustajad."
 ---
 
-## Kuidas See Töötab
+# Prospekt
 
-See skill abistab sind teha põhjalikku müügieelsest uuringut ettevõtete ja isikute kohta. Kasutame veebiotsingu, avalikke andmeallikaid ja struktureeritud analüüsi, et leida müügiargumente ja võtmeisikuid.
+## Kuidas see töötab
 
-### Uuringu Rollid
+See skill abistab sind teha põhjalikku müügieelset uuringut ettevõtete ja isikute kohta. Kasutame veebiotsingut, avalikke andmeallikaid ja struktureeritud analüüsi, et leida müügiargumente ja võtmeisikuid.
 
-Töötame kolmes rollis, et saada täielikku pilti:
+### Uuringu rollid
 
-1. **Müügitõenäolisuse Otsija** — leiab ettevõtte kontaktinfo, struktuur, finantsilised signaalid
-2. **Tööstuse Ekspert** — analüüsib ettevõtte valdkonda, trendie, võimalusi
-3. **Võrgustiku Kaardistaja** — leiab võtmeisikud, nende tausta, ühendused
+Töötame kolmes rollis, et saada täielik pilt:
+
+1. **Müügitõenäolisuse otsija** — leiab ettevõtte kontaktinfo, struktuuri, finantssignaalid
+2. **Tööstuse ekspert** — analüüsib ettevõtte valdkonda, trende, võimalusi
+3. **Võrgustiku kaardistaja** — leiab võtmeisikud, nende tausta, ühendused
 
 ---
 
-## Mida Sinult Vajan
+## Mida sinult vajan
 
 Küsi kasutajalt:
 
@@ -31,7 +33,7 @@ Küsi kasutajalt:
 
 ## Näited
 
-### Näide 1: Ettevõtte Uurimine
+### Näide 1: Ettevõtte uurimine
 **Kasutaja:** "Uuri ettevõtet TechCorp Eesti — otsin nende IT-juhatajat"
 
 **Su Vastus:**
@@ -40,7 +42,7 @@ Küsi kasutajalt:
 - Ettevõtte viimased uudised ja investeeringud
 - Müügiargumendid: miks peaks nendega rääkima
 
-### Näide 2: Isiku Uurimine
+### Näide 2: Isiku uurimine
 **Kasutaja:** "Kes on Mart Sokolov ja kas ta on otsustaja?"
 
 **Su Vastus:**
@@ -51,7 +53,7 @@ Küsi kasutajalt:
 
 ---
 
-## Väljund Template
+## Väljundi mall
 
 Koosta vastus selles formaadis:
 
@@ -89,13 +91,13 @@ Koosta vastus selles formaadis:
 - ✗ [Negatiivne signal]
 
 ### Järgmised Sammud
-1. [Konkretne tegevus]
-2. [Konkretne tegevus]
+1. [Konkreetne tegevus]
+2. [Konkreetne tegevus]
 ```
 
 ---
 
-## Täitmise Voog
+## Täitmise voog
 
 1. **Otsing** — veebi- ja andmebaasiotsing, kogu avalik info
 2. **Analüüs** — sorteeri müügieesmärkiga seotud infot
@@ -104,29 +106,29 @@ Koosta vastus selles formaadis:
 
 ---
 
-## Uuringu Variatsioonid
+## Uuringu variatsioonid
 
-### Sügav Uuring (30–45 min)
+### Sügav uuring (30–45 min)
 - Ettevõtte ajalooline info
 - Võrguanalüüs (keegi juba nende juures?)
 - Ärimudelid ja strateegia
 - Finantsinfo (avalik)
 - Inimeste tausta uurimine
 
-### Kiire Uuring (5–10 min)
+### Kiire uuring (5–10 min)
 - Põhiandmed (kes, kus, mis teevad)
-- 2–3 võtmeisikut LinkedIn koos
+- 2–3 võtmeisikut LinkedInist
 - Viimased uudised
 - Üks müügiargument
 
-### Isiku Spetsialiseerumine
+### Isiku uurimine
 - LinkedIn-profiil täielikult
-- Ettevõttes väljundi ja tähtsus
+- Roll ja tähtsus ettevõttes
 - Otsustajate võrgustik (kes juhib, kellega koos)
 
 ---
 
-## Nipid Paremaks Uuringuks
+## Nipid paremaks uuringuks
 
 1. **LinkedIn** — iga võtmeisiku ees-sugu, ametikoht, vahetused
 2. **Google News** — viimased pressiteated
@@ -137,8 +139,8 @@ Koosta vastus selles formaadis:
 
 ---
 
-## Seotud Käsud
+## Vaata ka
 
-- **müügi-email** — kirjuta müügiekspressioon
-- **kõne-manustus** — valmista kõne ette
-- **müügi-materjal** — loo pakkumise dokument
+- `/pöördumine` — kirjuta personaalne pöördumine uuringu põhjal
+- `/ettevalmistus` — valmista ette müügikõne pärast esimest kontakti
+- `/kõnekokkuvõte` — koosta kõne järel kokkuvõte ja järeltegevused
